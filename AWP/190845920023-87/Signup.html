@@ -1,0 +1,126 @@
+<html>
+<head><title>Signup</title>
+<style>
+h1
+{
+   color:blue;
+   
+   font-size:40px;
+   font-family:Sans-serif;
+ }
+ th
+{
+   color:Black;
+   font-style:bold;
+   font-size:20px;
+   font-family:Sans-serif;
+}
+</style>
+</head>
+<body bgcolor="Maroon">
+<h1 align="center">New User Registration</h1>
+<form name="ureg" action="uregister.php" method="get">
+<table border="2"  cellspacing="5"  align="center" width="50%" height="70%">
+<tr>
+<th >UserName</th>
+<th><input type="Text" name="txtnm" maxlength="10" autofocus required placeholder="Enter your name"></th>
+</tr>
+
+
+
+<tr>
+<th>Password</th>
+<th><input type="password" name="txtpass" maxlength="10" autofocus required placeholder="Enter your password"></th>
+</tr>
+
+<tr>
+<th>Confirm Password</th>
+<th><input type="password" name="txtcpass" maxlength="10" autofocus required placeholder="Retype  your password"></th>
+</tr>
+
+
+<tr>
+<th>Email</th>
+<th><input type="Email" name="email" autofocus required placeholder="Enter Email" required></th>
+</tr>
+
+
+<tr>
+<th>Mobile Number</th>
+<th><input type="Number" name="mobile" maxlength="10" autofocus required placeholder="Enter mobile 10 digits"></th>
+</tr>
+
+<tr>
+<th>Adress</th>
+<th><textarea name="txtadddr" row="2" cols="22"  required></textarea></th>
+</tr>
+
+
+<tr>
+<th>Gender</th>
+<th nowrap>
+<input type="radio" name="rdogender" checked value="M"/>Male
+<input type="radio" name="rdogender" value="F"/>Female
+<input type="radio" name="rdogender" value="T"/>Transgender
+</th>
+</tr>
+
+<tr>
+<th nowrap>
+Country
+</th>
+<th ><select name="selcountry" >
+<option>India</option>
+<option>Sweden</option>
+<option>USA</option>
+<option>Britain</option>
+<option selected>Canada</option>
+</select>
+</th>
+</tr>
+
+<tr>
+<td colspan="2" align="center">
+<button type="Submit" height="20%"><b>Register</b></button>
+
+<button type="reset" height="20%"><b>Clear</b></button>
+</th>
+</tr>
+
+
+
+
+
+
+</table>
+</form>
+<center><a href="shopping.html">Back to home page</a></center>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>

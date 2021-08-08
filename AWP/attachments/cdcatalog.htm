@@ -1,0 +1,55 @@
+<html>
+<head> <title> CD Collection </title> </head>
+<body>
+<script>
+var xhttp = new XMLHttpRequest();
+var xmldoc;
+xhttp.onreadystatechange = function()
+{
+/*
+ReadyState Values 
+0. Request not initialized
+1. server connection established
+2. Request received
+3. Request in Process
+4. Request finished and Response is Ready
+*/	
+if(this.readyState == 4)
+	{
+		xmldoc = xhttp.responseXML;
+		//document.write(xmldoc);
+/*		var x = xmldoc.getElementsByTagName("CD");
+		document.write("<table border=1> <tr> <th> Artist </th> <th> Title </th></tr>")
+		for(i=0;i<x.length;i++)
+		{
+			var artist = x[i].getElementsByTagName("ARTIST")[0].childNodes[0].nodeValue;
+			var title = x[i].getElementsByTagName("TITLE")[0].childNodes[0].nodeValue;
+			document.write("<tr><td>" + artist + "</td><td>" + title + "</td></tr>")
+			
+		}
+		//document.write(x.length);
+		
+		document.write("</table>");
+	*/	
+		
+		var y= xmldoc.getElementsByTagName("CD")[1];
+		//document.write(y.childNodes.length);
+		document.write(y.childNodes[3].childNodes[0].nodeValue)
+		//document.write(y.childNodes[1].childNodes[0].nodeValue);
+		/*document.write("<br/>");
+		firstchild = y.firstChild;
+		firstchild = firstchild.nextSibling;
+				
+		document.write(firstchild.nodeValue + " : ");
+		document.write(firstchild.childNodes[0].nodeName);
+		*/
+	}
+}
+xhttp.open("GET","cdcatalog.xml",true);
+xhttp.send();
+
+</script>
+
+
+</body>
+</html>

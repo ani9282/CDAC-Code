@@ -1,0 +1,21 @@
+#sample
+{
+	background-color:yellow;
+	color:red;
+}
+
+.txtfont
+{
+	font-size:16;
+	font-family:ARIAL;
+}
+
+tr:hover
+{
+	background-color:blue;
+}
+
+table{
+	border-bottom : 2px dotted blue;
+	border-top : 2px dotted blue;
+}
