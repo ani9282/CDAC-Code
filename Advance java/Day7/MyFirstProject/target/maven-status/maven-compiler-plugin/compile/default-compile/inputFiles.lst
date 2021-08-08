@@ -1,0 +1,7 @@
+/run/user/1000/gvfs/smb-share:server=ietserver.local,share=share/Advance java/Day7/MyFirstProject/src/main/java/com/training/test/MyHibernateTest.java
+/run/user/1000/gvfs/smb-share:server=ietserver.local,share=share/Advance java/Day7/MyFirstProject/src/main/java/com/training/service/UserServiceImpl.java
+/run/user/1000/gvfs/smb-share:server=ietserver.local,share=share/Advance java/Day7/MyFirstProject/src/main/java/com/training/beans/MyUser.java
+/run/user/1000/gvfs/smb-share:server=ietserver.local,share=share/Advance java/Day7/MyFirstProject/src/main/java/com/training/dao/UserDao.java
+/run/user/1000/gvfs/smb-share:server=ietserver.local,share=share/Advance java/Day7/MyFirstProject/src/main/java/com/training/service/UserService.java
+/run/user/1000/gvfs/smb-share:server=ietserver.local,share=share/Advance java/Day7/MyFirstProject/src/main/java/com/training/dao/HibernateUtil.java
+/run/user/1000/gvfs/smb-share:server=ietserver.local,share=share/Advance java/Day7/MyFirstProject/src/main/java/com/training/dao/UserDaoImpl.java
