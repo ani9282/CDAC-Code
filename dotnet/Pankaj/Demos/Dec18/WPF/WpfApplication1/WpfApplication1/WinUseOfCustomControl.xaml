@@ -1,0 +1,8 @@
+﻿<Window x:Class="WpfApplication1.WinUseOfCustomControl"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="WinUseOfCustomControl" Height="300" Width="300" xmlns:my="clr-namespace:WpfCustomControlLibrary1;assembly=WpfCustomControlLibrary1">
+    <Grid>
+        <my:CustomControl1 HorizontalAlignment="Left" Margin="48,74,0,0" Name="customControl11" VerticalAlignment="Top" />
+    </Grid>
+</Window>

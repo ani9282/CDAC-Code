@@ -1,0 +1,5 @@
+d:\Cdac19\StudMgmtSystem\SMS_Entity\bin\Debug\SMS_Entity.dll
+d:\Cdac19\StudMgmtSystem\SMS_Entity\bin\Debug\SMS_Entity.pdb
+d:\Cdac19\StudMgmtSystem\SMS_Entity\obj\Debug\SMS_Entity.csprojResolveAssemblyReference.cache
+d:\Cdac19\StudMgmtSystem\SMS_Entity\obj\Debug\SMS_Entity.dll
+d:\Cdac19\StudMgmtSystem\SMS_Entity\obj\Debug\SMS_Entity.pdb

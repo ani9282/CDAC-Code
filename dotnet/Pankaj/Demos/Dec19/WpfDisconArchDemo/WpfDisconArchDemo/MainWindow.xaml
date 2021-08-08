@@ -1,0 +1,18 @@
+﻿<Window x:Class="WpfDisconArchDemo.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfDisconArchDemo"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525" Loaded="Window_Loaded">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="297*"/>
+            <ColumnDefinition Width="76*"/>
+            <ColumnDefinition Width="144*"/>
+        </Grid.ColumnDefinitions>
+        <DataGrid x:Name="dataGrid" HorizontalAlignment="Left" Margin="77,73,0,0" VerticalAlignment="Top" Height="148" Width="346" Grid.ColumnSpan="3"/>
+
+    </Grid>
+</Window>

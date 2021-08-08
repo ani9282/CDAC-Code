@@ -1,0 +1,13 @@
+d:\Cdac19\WpfDisconArchDemo\WpfDisconArchDemo\bin\Debug\WpfDisconArchDemo.exe.config
+d:\Cdac19\WpfDisconArchDemo\WpfDisconArchDemo\bin\Debug\WpfDisconArchDemo.exe
+d:\Cdac19\WpfDisconArchDemo\WpfDisconArchDemo\bin\Debug\WpfDisconArchDemo.pdb
+d:\Cdac19\WpfDisconArchDemo\WpfDisconArchDemo\obj\Debug\MainWindow.g.cs
+d:\Cdac19\WpfDisconArchDemo\WpfDisconArchDemo\obj\Debug\App.g.cs
+d:\Cdac19\WpfDisconArchDemo\WpfDisconArchDemo\obj\Debug\WpfDisconArchDemo_MarkupCompile.cache
+d:\Cdac19\WpfDisconArchDemo\WpfDisconArchDemo\obj\Debug\WpfDisconArchDemo_MarkupCompile.lref
+d:\Cdac19\WpfDisconArchDemo\WpfDisconArchDemo\obj\Debug\MainWindow.baml
+d:\Cdac19\WpfDisconArchDemo\WpfDisconArchDemo\obj\Debug\WpfDisconArchDemo.g.resources
+d:\Cdac19\WpfDisconArchDemo\WpfDisconArchDemo\obj\Debug\WpfDisconArchDemo.Properties.Resources.resources
+d:\Cdac19\WpfDisconArchDemo\WpfDisconArchDemo\obj\Debug\WpfDisconArchDemo.csproj.GenerateResource.Cache
+d:\Cdac19\WpfDisconArchDemo\WpfDisconArchDemo\obj\Debug\WpfDisconArchDemo.exe
+d:\Cdac19\WpfDisconArchDemo\WpfDisconArchDemo\obj\Debug\WpfDisconArchDemo.pdb

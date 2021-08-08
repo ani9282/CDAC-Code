@@ -1,0 +1,1 @@
+G:\Capgemini Material\Capgemini_Web_API\Web API\Demos\MVC_CRUD_WebAPI_Experiment\MvcApplication1\MvcApplication1\obj\Debug\MvcApplication1.csprojResolveAssemblyReference.cache

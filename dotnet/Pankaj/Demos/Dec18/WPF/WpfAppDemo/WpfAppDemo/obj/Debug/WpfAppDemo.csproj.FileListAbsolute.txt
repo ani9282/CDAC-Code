@@ -1,0 +1,36 @@
+d:\Cdac19\WpfAppDemo\WpfAppDemo\bin\Debug\WpfAppDemo.exe.config
+d:\Cdac19\WpfAppDemo\WpfAppDemo\bin\Debug\WpfAppDemo.exe
+d:\Cdac19\WpfAppDemo\WpfAppDemo\bin\Debug\WpfAppDemo.pdb
+d:\Cdac19\WpfAppDemo\WpfAppDemo\obj\Debug\WpfAppDemo.csprojResolveAssemblyReference.cache
+d:\Cdac19\WpfAppDemo\WpfAppDemo\obj\Debug\CanvasDemo.g.cs
+d:\Cdac19\WpfAppDemo\WpfAppDemo\obj\Debug\DockPanelDemo.g.cs
+d:\Cdac19\WpfAppDemo\WpfAppDemo\obj\Debug\MainWindow.g.cs
+d:\Cdac19\WpfAppDemo\WpfAppDemo\obj\Debug\App.g.cs
+d:\Cdac19\WpfAppDemo\WpfAppDemo\obj\Debug\WpfAppDemo_MarkupCompile.cache
+d:\Cdac19\WpfAppDemo\WpfAppDemo\obj\Debug\WpfAppDemo_MarkupCompile.lref
+d:\Cdac19\WpfAppDemo\WpfAppDemo\obj\Debug\CanvasDemo.baml
+d:\Cdac19\WpfAppDemo\WpfAppDemo\obj\Debug\DockPanelDemo.baml
+d:\Cdac19\WpfAppDemo\WpfAppDemo\obj\Debug\MainWindow.baml
+d:\Cdac19\WpfAppDemo\WpfAppDemo\obj\Debug\WpfAppDemo.g.resources
+d:\Cdac19\WpfAppDemo\WpfAppDemo\obj\Debug\WpfAppDemo.Properties.Resources.resources
+d:\Cdac19\WpfAppDemo\WpfAppDemo\obj\Debug\WpfAppDemo.csproj.GenerateResource.Cache
+d:\Cdac19\WpfAppDemo\WpfAppDemo\obj\Debug\WpfAppDemo.exe
+d:\Cdac19\WpfAppDemo\WpfAppDemo\obj\Debug\WpfAppDemo.pdb
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec18\WPF\WpfAppDemo\WpfAppDemo\bin\Debug\WpfAppDemo.exe.config
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec18\WPF\WpfAppDemo\WpfAppDemo\obj\Debug\WpfAppDemo.exe
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec18\WPF\WpfAppDemo\WpfAppDemo\obj\Debug\WpfAppDemo.pdb
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec18\WPF\WpfAppDemo\WpfAppDemo\bin\Debug\WpfAppDemo.exe
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec18\WPF\WpfAppDemo\WpfAppDemo\bin\Debug\WpfAppDemo.pdb
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec18\WPF\WpfAppDemo\WpfAppDemo\obj\Debug\WpfAppDemo.csprojResolveAssemblyReference.cache
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec18\WPF\WpfAppDemo\WpfAppDemo\obj\Debug\CanvasDemo.g.cs
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec18\WPF\WpfAppDemo\WpfAppDemo\obj\Debug\DockPanelDemo.g.cs
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec18\WPF\WpfAppDemo\WpfAppDemo\obj\Debug\MainWindow.g.cs
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec18\WPF\WpfAppDemo\WpfAppDemo\obj\Debug\App.g.cs
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec18\WPF\WpfAppDemo\WpfAppDemo\obj\Debug\WpfAppDemo_MarkupCompile.cache
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec18\WPF\WpfAppDemo\WpfAppDemo\obj\Debug\WpfAppDemo_MarkupCompile.lref
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec18\WPF\WpfAppDemo\WpfAppDemo\obj\Debug\CanvasDemo.baml
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec18\WPF\WpfAppDemo\WpfAppDemo\obj\Debug\DockPanelDemo.baml
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec18\WPF\WpfAppDemo\WpfAppDemo\obj\Debug\MainWindow.baml
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec18\WPF\WpfAppDemo\WpfAppDemo\obj\Debug\WpfAppDemo.g.resources
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec18\WPF\WpfAppDemo\WpfAppDemo\obj\Debug\WpfAppDemo.Properties.Resources.resources
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec18\WPF\WpfAppDemo\WpfAppDemo\obj\Debug\WpfAppDemo.csproj.GenerateResource.Cache

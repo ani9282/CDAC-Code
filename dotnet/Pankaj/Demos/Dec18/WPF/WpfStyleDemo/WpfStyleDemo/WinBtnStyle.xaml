@@ -1,0 +1,17 @@
+﻿<Window x:Class="WpfStyleDemo.WinBtnStyle"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="WinBtnStyle" Height="300" Width="300">
+    <Grid>
+            
+        <Button Content="Welcome" Height="23" HorizontalAlignment="Left" Margin="10,10,0,0" Name="button1" VerticalAlignment="Top" Width="75" >
+            <Button.Background>
+                <LinearGradientBrush StartPoint="0,0" EndPoint="0,2">
+                    <GradientStop Color="#D80000" Offset=".2" />
+                    <GradientStop Color="#780000" Offset=".5" />
+                    <GradientStop Color="#280000" Offset="1" />
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+    </Grid>
+</Window>

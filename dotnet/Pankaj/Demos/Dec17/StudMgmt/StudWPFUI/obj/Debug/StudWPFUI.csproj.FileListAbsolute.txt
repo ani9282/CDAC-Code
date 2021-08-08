@@ -1,0 +1,54 @@
+d:\CDAC19\StudMgmt\StudWPFUI\bin\Debug\StudWPFUI.exe.config
+d:\CDAC19\StudMgmt\StudWPFUI\bin\Debug\StudWPFUI.exe
+d:\CDAC19\StudMgmt\StudWPFUI\bin\Debug\StudWPFUI.pdb
+d:\CDAC19\StudMgmt\StudWPFUI\obj\Debug\StudWPFUI.csprojResolveAssemblyReference.cache
+d:\CDAC19\StudMgmt\StudWPFUI\obj\Debug\MainWindow.g.cs
+d:\CDAC19\StudMgmt\StudWPFUI\obj\Debug\App.g.cs
+d:\CDAC19\StudMgmt\StudWPFUI\obj\Debug\StudWPFUI_MarkupCompile.cache
+d:\CDAC19\StudMgmt\StudWPFUI\obj\Debug\StudWPFUI_MarkupCompile.lref
+d:\CDAC19\StudMgmt\StudWPFUI\obj\Debug\MainWindow.baml
+d:\CDAC19\StudMgmt\StudWPFUI\obj\Debug\StudWPFUI.g.resources
+d:\CDAC19\StudMgmt\StudWPFUI\obj\Debug\StudWPFUI.Properties.Resources.resources
+d:\CDAC19\StudMgmt\StudWPFUI\obj\Debug\StudWPFUI.csproj.GenerateResource.Cache
+d:\CDAC19\StudMgmt\StudWPFUI\obj\Debug\StudWPFUI.exe
+d:\CDAC19\StudMgmt\StudWPFUI\obj\Debug\StudWPFUI.pdb
+d:\CDAC19\StudMgmt\StudWPFUI\bin\Debug\StudentBLProj.dll
+d:\CDAC19\StudMgmt\StudWPFUI\bin\Debug\StudentEntity.dll
+d:\CDAC19\StudMgmt\StudWPFUI\bin\Debug\StudentExceptions.dll
+d:\CDAC19\StudMgmt\StudWPFUI\bin\Debug\StudentDALProj.dll
+d:\CDAC19\StudMgmt\StudWPFUI\bin\Debug\StudentBLProj.pdb
+d:\CDAC19\StudMgmt\StudWPFUI\bin\Debug\StudentEntity.pdb
+d:\CDAC19\StudMgmt\StudWPFUI\bin\Debug\StudentExceptions.pdb
+d:\CDAC19\StudMgmt\StudWPFUI\bin\Debug\StudentDALProj.pdb
+d:\CDAC19\StudMgmt\StudWPFUI\obj\Debug\ResultWindow.g.cs
+d:\CDAC19\StudMgmt\StudWPFUI\obj\Debug\ResultWindow.baml
+d:\CDAC19\StudMgmt\StudWPFUI\obj\Debug\App.baml
+D:\CDAC19\StudMgmt\StudWPFUI\obj\Debug\DataBindingDemo.g.cs
+D:\CDAC19\StudMgmt\StudWPFUI\obj\Debug\DataBindingDemo.baml
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec17\StudMgmt\StudWPFUI\bin\Debug\StudWPFUI.exe.config
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec17\StudMgmt\StudWPFUI\obj\Debug\StudWPFUI.exe
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec17\StudMgmt\StudWPFUI\obj\Debug\StudWPFUI.pdb
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec17\StudMgmt\StudWPFUI\bin\Debug\StudWPFUI.exe
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec17\StudMgmt\StudWPFUI\bin\Debug\StudWPFUI.pdb
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec17\StudMgmt\StudWPFUI\bin\Debug\StudentBLProj.dll
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec17\StudMgmt\StudWPFUI\bin\Debug\StudentEntity.dll
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec17\StudMgmt\StudWPFUI\bin\Debug\StudentExceptions.dll
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec17\StudMgmt\StudWPFUI\bin\Debug\StudentDALProj.dll
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec17\StudMgmt\StudWPFUI\bin\Debug\StudentBLProj.pdb
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec17\StudMgmt\StudWPFUI\bin\Debug\StudentEntity.pdb
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec17\StudMgmt\StudWPFUI\bin\Debug\StudentExceptions.pdb
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec17\StudMgmt\StudWPFUI\bin\Debug\StudentDALProj.pdb
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec17\StudMgmt\StudWPFUI\obj\Debug\StudWPFUI.csprojResolveAssemblyReference.cache
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec17\StudMgmt\StudWPFUI\obj\Debug\DataBindingDemo.g.cs
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec17\StudMgmt\StudWPFUI\obj\Debug\MainWindow.g.cs
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec17\StudMgmt\StudWPFUI\obj\Debug\ResultWindow.g.cs
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec17\StudMgmt\StudWPFUI\obj\Debug\App.g.cs
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec17\StudMgmt\StudWPFUI\obj\Debug\StudWPFUI_MarkupCompile.cache
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec17\StudMgmt\StudWPFUI\obj\Debug\StudWPFUI_MarkupCompile.lref
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec17\StudMgmt\StudWPFUI\obj\Debug\App.baml
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec17\StudMgmt\StudWPFUI\obj\Debug\DataBindingDemo.baml
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec17\StudMgmt\StudWPFUI\obj\Debug\MainWindow.baml
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec17\StudMgmt\StudWPFUI\obj\Debug\ResultWindow.baml
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec17\StudMgmt\StudWPFUI\obj\Debug\StudWPFUI.g.resources
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec17\StudMgmt\StudWPFUI\obj\Debug\StudWPFUI.Properties.Resources.resources
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec17\StudMgmt\StudWPFUI\obj\Debug\StudWPFUI.csproj.GenerateResource.Cache

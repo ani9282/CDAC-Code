@@ -1,0 +1,36 @@
+d:\Cdac19\StudMgmt\StudentUIProj\bin\Debug\StudentUIProj.exe.config
+d:\Cdac19\StudMgmt\StudentUIProj\obj\Debug\StudentUIProj.csprojResolveAssemblyReference.cache
+d:\Cdac19\StudMgmt\StudentUIProj\obj\Debug\StudentUIProj.Form1.resources
+d:\Cdac19\StudMgmt\StudentUIProj\obj\Debug\StudentUIProj.Properties.Resources.resources
+d:\Cdac19\StudMgmt\StudentUIProj\obj\Debug\StudentUIProj.csproj.GenerateResource.Cache
+d:\Cdac19\StudMgmt\StudentUIProj\bin\Debug\StudentUIProj.exe
+d:\Cdac19\StudMgmt\StudentUIProj\bin\Debug\StudentUIProj.pdb
+d:\Cdac19\StudMgmt\StudentUIProj\bin\Debug\StudentBLProj.dll
+d:\Cdac19\StudMgmt\StudentUIProj\bin\Debug\StudentEntity.dll
+d:\Cdac19\StudMgmt\StudentUIProj\bin\Debug\StudentExceptions.dll
+d:\Cdac19\StudMgmt\StudentUIProj\bin\Debug\StudentDALProj.dll
+d:\Cdac19\StudMgmt\StudentUIProj\bin\Debug\StudentBLProj.pdb
+d:\Cdac19\StudMgmt\StudentUIProj\bin\Debug\StudentEntity.pdb
+d:\Cdac19\StudMgmt\StudentUIProj\bin\Debug\StudentExceptions.pdb
+d:\Cdac19\StudMgmt\StudentUIProj\bin\Debug\StudentDALProj.pdb
+d:\Cdac19\StudMgmt\StudentUIProj\obj\Debug\StudentUIProj.exe
+d:\Cdac19\StudMgmt\StudentUIProj\obj\Debug\StudentUIProj.pdb
+d:\Cdac19\StudMgmt\StudentUIProj\obj\Debug\StudentUIProj.Form2.resources
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec17\StudMgmt\StudentUIProj\bin\Debug\StudentUIProj.exe.config
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec17\StudMgmt\StudentUIProj\obj\Debug\StudentUIProj.exe
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec17\StudMgmt\StudentUIProj\obj\Debug\StudentUIProj.pdb
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec17\StudMgmt\StudentUIProj\bin\Debug\StudentUIProj.exe
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec17\StudMgmt\StudentUIProj\bin\Debug\StudentUIProj.pdb
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec17\StudMgmt\StudentUIProj\bin\Debug\StudentBLProj.dll
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec17\StudMgmt\StudentUIProj\bin\Debug\StudentEntity.dll
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec17\StudMgmt\StudentUIProj\bin\Debug\StudentExceptions.dll
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec17\StudMgmt\StudentUIProj\bin\Debug\StudentDALProj.dll
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec17\StudMgmt\StudentUIProj\bin\Debug\StudentBLProj.pdb
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec17\StudMgmt\StudentUIProj\bin\Debug\StudentEntity.pdb
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec17\StudMgmt\StudentUIProj\bin\Debug\StudentExceptions.pdb
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec17\StudMgmt\StudentUIProj\bin\Debug\StudentDALProj.pdb
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec17\StudMgmt\StudentUIProj\obj\Debug\StudentUIProj.csprojResolveAssemblyReference.cache
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec17\StudMgmt\StudentUIProj\obj\Debug\StudentUIProj.Form1.resources
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec17\StudMgmt\StudentUIProj\obj\Debug\StudentUIProj.Form2.resources
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec17\StudMgmt\StudentUIProj\obj\Debug\StudentUIProj.Properties.Resources.resources
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec17\StudMgmt\StudentUIProj\obj\Debug\StudentUIProj.csproj.GenerateResource.Cache

@@ -1,0 +1,6 @@
+d:\Cdac19\DelegateDemo\DelegateDemo\bin\Debug\DelegateDemo.exe.config
+d:\Cdac19\DelegateDemo\DelegateDemo\obj\Debug\DelegateDemo.csprojResolveAssemblyReference.cache
+d:\Cdac19\DelegateDemo\DelegateDemo\bin\Debug\DelegateDemo.exe
+d:\Cdac19\DelegateDemo\DelegateDemo\bin\Debug\DelegateDemo.pdb
+d:\Cdac19\DelegateDemo\DelegateDemo\obj\Debug\DelegateDemo.exe
+d:\Cdac19\DelegateDemo\DelegateDemo\obj\Debug\DelegateDemo.pdb

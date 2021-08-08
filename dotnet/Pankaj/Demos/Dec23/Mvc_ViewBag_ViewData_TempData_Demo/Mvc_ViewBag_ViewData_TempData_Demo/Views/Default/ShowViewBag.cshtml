@@ -1,0 +1,13 @@
+﻿
+@{
+    ViewBag.Title = "ShowViewBag";
+}
+
+<h2>ShowViewBag</h2>
+
+<ol>
+    @foreach (var student in ViewBag.Student)
+    {
+        <li>@student</li>
+    }
+    </ol>

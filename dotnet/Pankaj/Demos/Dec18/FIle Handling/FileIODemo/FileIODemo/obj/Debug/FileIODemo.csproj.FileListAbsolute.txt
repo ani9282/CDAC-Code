@@ -1,0 +1,10 @@
+G:\Siemens\FileIODemo\FileIODemo\bin\Debug\FileIODemo.exe
+G:\Siemens\FileIODemo\FileIODemo\bin\Debug\FileIODemo.pdb
+G:\Siemens\FileIODemo\FileIODemo\obj\Debug\FileIODemo.csprojResolveAssemblyReference.cache
+G:\Siemens\FileIODemo\FileIODemo\obj\Debug\FileIODemo.exe
+G:\Siemens\FileIODemo\FileIODemo\obj\Debug\FileIODemo.pdb
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec18\FIle Handling\FileIODemo\FileIODemo\obj\Debug\FileIODemo.exe
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec18\FIle Handling\FileIODemo\FileIODemo\obj\Debug\FileIODemo.pdb
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec18\FIle Handling\FileIODemo\FileIODemo\bin\Debug\FileIODemo.exe
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec18\FIle Handling\FileIODemo\FileIODemo\bin\Debug\FileIODemo.pdb
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec18\FIle Handling\FileIODemo\FileIODemo\obj\Debug\FileIODemo.csprojResolveAssemblyReference.cache

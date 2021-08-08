@@ -1,0 +1,13 @@
+C:\Users\Pankaj\Desktop\Accenture\WCF_in_details_src\WCFDemoSolution\WCFClient\bin\Debug\WCFClient.exe.config
+C:\Users\Pankaj\Desktop\Accenture\WCF_in_details_src\WCFDemoSolution\WCFClient\bin\Debug\WCFClient.exe
+C:\Users\Pankaj\Desktop\Accenture\WCF_in_details_src\WCFDemoSolution\WCFClient\bin\Debug\WCFClient.pdb
+C:\Users\Pankaj\Desktop\Accenture\WCF_in_details_src\WCFDemoSolution\WCFClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Pankaj\Desktop\Accenture\WCF_in_details_src\WCFDemoSolution\WCFClient\obj\Debug\WCFClient.WCFClient.resources
+C:\Users\Pankaj\Desktop\Accenture\WCF_in_details_src\WCFDemoSolution\WCFClient\obj\Debug\WCFClient.Properties.Resources.resources
+C:\Users\Pankaj\Desktop\Accenture\WCF_in_details_src\WCFDemoSolution\WCFClient\obj\Debug\ResGen.read.1.tlog
+C:\Users\Pankaj\Desktop\Accenture\WCF_in_details_src\WCFDemoSolution\WCFClient\obj\Debug\ResGen.write.1.tlog
+C:\Users\Pankaj\Desktop\Accenture\WCF_in_details_src\WCFDemoSolution\WCFClient\obj\Debug\WCFClient.exe
+C:\Users\Pankaj\Desktop\Accenture\WCF_in_details_src\WCFDemoSolution\WCFClient\obj\Debug\WCFClient.pdb
+C:\Users\Pankaj\Desktop\Accenture\WCF\WCF_in_details_src\WCFDemoSolution\WCFClient\bin\Debug\WCFClient.exe.config
+C:\Users\Pankaj\Desktop\Accenture\WCF\WCF_in_details_src\WCFDemoSolution\WCFClient\obj\Debug\WCFClient.exe
+C:\Users\Pankaj\Desktop\Accenture\WCF\WCF_in_details_src\WCFDemoSolution\WCFClient\obj\Debug\WCFClient.pdb

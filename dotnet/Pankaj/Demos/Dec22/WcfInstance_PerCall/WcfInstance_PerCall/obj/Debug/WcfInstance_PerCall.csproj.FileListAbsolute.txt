@@ -1,0 +1,25 @@
+C:\Demos\WcfInstance_PerCall\WcfInstance_PerCall\bin\WcfInstance_PerCall.dll
+C:\Demos\WcfInstance_PerCall\WcfInstance_PerCall\bin\WcfInstance_PerCall.pdb
+C:\Demos\WcfInstance_PerCall\WcfInstance_PerCall\obj\Debug\ResolveAssemblyReference.cache
+C:\Demos\WcfInstance_PerCall\WcfInstance_PerCall\obj\Debug\WcfInstance_PerCall.dll
+C:\Demos\WcfInstance_PerCall\WcfInstance_PerCall\obj\Debug\WcfInstance_PerCall.pdb
+C:\Users\Pankaj\Desktop\Accenture\Demos\WcfInstance_PerCall\WcfInstance_PerCall\bin\WcfInstance_PerCall.dll
+C:\Users\Pankaj\Desktop\Accenture\Demos\WcfInstance_PerCall\WcfInstance_PerCall\bin\WcfInstance_PerCall.pdb
+C:\Users\Pankaj\Desktop\Accenture\Demos\WcfInstance_PerCall\WcfInstance_PerCall\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Pankaj\Desktop\Accenture\Demos\WcfInstance_PerCall\WcfInstance_PerCall\obj\Debug\WcfInstance_PerCall.dll
+C:\Users\Pankaj\Desktop\Accenture\Demos\WcfInstance_PerCall\WcfInstance_PerCall\obj\Debug\WcfInstance_PerCall.pdb
+C:\Users\Pankaj\Desktop\Accenture\WCF\Demos\WcfInstance_PerCall\WcfInstance_PerCall\bin\WcfInstance_PerCall.dll
+C:\Users\Pankaj\Desktop\Accenture\WCF\Demos\WcfInstance_PerCall\WcfInstance_PerCall\bin\WcfInstance_PerCall.pdb
+C:\Users\Pankaj\Desktop\Accenture\WCF\Demos\WcfInstance_PerCall\WcfInstance_PerCall\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Pankaj\Desktop\Accenture\WCF\Demos\WcfInstance_PerCall\WcfInstance_PerCall\obj\Debug\WcfInstance_PerCall.dll
+C:\Users\Pankaj\Desktop\Accenture\WCF\Demos\WcfInstance_PerCall\WcfInstance_PerCall\obj\Debug\WcfInstance_PerCall.pdb
+D:\Pankaj Data\Laptop Desktop\Accenture\WCF\Demos\WcfInstance_PerCall\WcfInstance_PerCall\bin\WcfInstance_PerCall.dll
+D:\Pankaj Data\Laptop Desktop\Accenture\WCF\Demos\WcfInstance_PerCall\WcfInstance_PerCall\bin\WcfInstance_PerCall.pdb
+D:\Pankaj Data\Laptop Desktop\Accenture\WCF\Demos\WcfInstance_PerCall\WcfInstance_PerCall\obj\Debug\WcfInstance_PerCall.dll
+D:\Pankaj Data\Laptop Desktop\Accenture\WCF\Demos\WcfInstance_PerCall\WcfInstance_PerCall\obj\Debug\WcfInstance_PerCall.pdb
+G:\Pankaj Data\Laptop Desktop\Accenture\WCF\Demos\WcfInstance_PerCall\WcfInstance_PerCall\bin\WcfInstance_PerCall.dll.config
+G:\Pankaj Data\Laptop Desktop\Accenture\WCF\Demos\WcfInstance_PerCall\WcfInstance_PerCall\bin\WcfInstance_PerCall.dll
+G:\Pankaj Data\Laptop Desktop\Accenture\WCF\Demos\WcfInstance_PerCall\WcfInstance_PerCall\bin\WcfInstance_PerCall.pdb
+G:\Pankaj Data\Laptop Desktop\Accenture\WCF\Demos\WcfInstance_PerCall\WcfInstance_PerCall\obj\Debug\WcfInstance_PerCall.csprojResolveAssemblyReference.cache
+G:\Pankaj Data\Laptop Desktop\Accenture\WCF\Demos\WcfInstance_PerCall\WcfInstance_PerCall\obj\Debug\WcfInstance_PerCall.dll
+G:\Pankaj Data\Laptop Desktop\Accenture\WCF\Demos\WcfInstance_PerCall\WcfInstance_PerCall\obj\Debug\WcfInstance_PerCall.pdb

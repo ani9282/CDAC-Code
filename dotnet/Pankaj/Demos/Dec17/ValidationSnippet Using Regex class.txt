@@ -1,0 +1,108 @@
+ public static bool CabValidation(CabService cs)
+        {
+            bool cabValidated = true;
+            StringBuilder message = new StringBuilder();
+
+            try
+            {
+        //Validation For empty string entries
+                #region Blank Validation
+                if (cs.FirstName == string.Empty)
+                {
+                    message.Append("First Name Required\n");
+                    cabValidated = false;
+                }
+                if (cs.LastName == string.Empty)
+                {
+                    message.Append("Last Name Required\n");
+                    cabValidated = false;
+                }
+                if (cs.Address == string.Empty)
+                {
+                    message.Append("Address  Required\n");
+                    cabValidated = false;
+                }
+                if (cs.EmailId == string.Empty)
+                {
+                    message.Append("EmailId  Required\n");
+                    cabValidated = false;
+                }
+                if (cs.ContactNo == string.Empty)
+                {
+                    message.Append("Contact Required\n");
+                    cabValidated = false;
+                }
+                if (cs.IdProof == string.Empty)
+                {
+                    message.Append("Id Proof Required\n");
+                    cabValidated = false;
+                }
+                if (cs.PlaceOfBooking == string.Empty)
+                {
+                    message.Append("Place of Booking Required\n");
+                    cabValidated = false;
+                }
+                if(cs.CabNo==string.Empty)
+                {
+                    message.Append("Cab No Required\n");
+                }
+                if (cs.CabMaker == string.Empty)
+                {
+                    message.Append("Cab maker Required\n");
+                    cabValidated = false;
+                }
+               
+             
+        #endregion
+
+                //validation of fields
+                #region Validation
+                if (!Regex.IsMatch(cs.FirstName, "[A-Z][a-z]+"))
+                {
+                    message.Append("First Name should start with capital alphabet and it should have alphhabets only\n");
+                    cabValidated = false;
+                }
+                 if (!Regex.IsMatch(cs.LastName, "[A-Z][a-z]+"))
+                {
+                    message.Append("Last Name should start with capital alphabet and it should have alphhabets only\n");
+                    cabValidated = false;
+                }
+                if(!Regex.IsMatch(cs.EmailId,"[A-Za-z0-9][@][a-z]+"))
+                {
+                    message.Append("Invalid EmailId\n");
+                    cabValidated = false;
+                }
+                if (!Regex.IsMatch(cs.Address, "[A-Z][a-z]+"))
+                {
+                    message.Append("Address should start with capital alphabet and it should have alphhabets only\n");
+                    cabValidated = false;
+                }
+
+                if (!Regex.IsMatch(cs.ContactNo, "[7-9][0-9]{9}"))
+                {
+                    message.Append("Contact No Should Be 10 digits!");
+                    cabValidated = false;
+                }
+                if (!Regex.IsMatch(cs.PlaceOfBooking, "[A-Z][a-z]+"))
+                {
+                    message.Append("Place of Booking should start with capital alphabet and it should have alphhabets only\n");
+                    cabValidated = false;
+                }
+                #endregion
+                if (cabValidated)
+                {
+                    throw new CabServiceException(message.ToString());
+                }
+            }
+            catch (CabServiceException pe)
+            {
+                throw pe;
+            }
+            catch (SystemException pe)
+            {
+                throw pe;
+            }
+
+            return cabValidated;
+		
+        }

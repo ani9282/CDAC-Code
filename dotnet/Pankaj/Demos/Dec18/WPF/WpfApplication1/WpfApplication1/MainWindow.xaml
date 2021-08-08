@@ -1,0 +1,51 @@
+﻿<Window x:Class="WpfApplication1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <StackPanel HorizontalAlignment="Center" Margin="15">
+            <Label Content="Who is your favorite animated character?"/>
+            <!--<ListBox>
+                <ListBoxItem>
+                    <StackPanel Orientation="Horizontal" >
+                        <Image Source="/WpfApplication1;component/Images/BugsBunny.jpg" Stretch="None"/>
+                        <Label Content="Bugs Bunny"/>
+                    </StackPanel>
+                </ListBoxItem>
+
+                <ListBoxItem>
+                    <StackPanel Orientation="Horizontal">
+                        <Image Source="/WpfApplication1;component/Images/underdog.jpg" Stretch="None"/>
+                        <Label Content="Underdog"/>
+                    </StackPanel>
+                </ListBoxItem>
+            </ListBox>-->
+            <RadioButton>
+                <StackPanel>
+                    <Image Source="/WpfApplication1;component/Images/BugsBunny.jpg" Stretch="None"/>
+                    <Label Content="Bugs Bunny"/>
+                </StackPanel>
+            </RadioButton>
+            <RadioButton>
+                <StackPanel>
+                    <Image Source="/WpfApplication1;component/Images/underdog.jpg" Stretch="None"/>
+                    <Label Content="Underdog"/>
+                </StackPanel>
+            </RadioButton>
+            <RadioButton>
+                <StackPanel>
+                    <Image Source="/WpfApplication1;component/Images/BettyBoop.jpg" Stretch="None"/>
+                    <Label Content="Betty Boop"/>
+                </StackPanel>
+            </RadioButton>
+            <RadioButton>
+                <StackPanel>
+                    <Image Source="/WpfApplication1;component/Images/Simpson.jpg" Stretch="None"/>
+                    <Label Content="Bart Simpson"/>
+                </StackPanel>
+            </RadioButton>
+        </StackPanel>
+
+
+    </Grid>
+</Window>

@@ -1,0 +1,5 @@
+C:\Demos\WcfFaultServiceDemo\WcfFaultServiceDemo\bin\WcfFaultServiceDemo.dll
+C:\Demos\WcfFaultServiceDemo\WcfFaultServiceDemo\bin\WcfFaultServiceDemo.pdb
+C:\Demos\WcfFaultServiceDemo\WcfFaultServiceDemo\obj\Debug\ResolveAssemblyReference.cache
+C:\Demos\WcfFaultServiceDemo\WcfFaultServiceDemo\obj\Debug\WcfFaultServiceDemo.dll
+C:\Demos\WcfFaultServiceDemo\WcfFaultServiceDemo\obj\Debug\WcfFaultServiceDemo.pdb

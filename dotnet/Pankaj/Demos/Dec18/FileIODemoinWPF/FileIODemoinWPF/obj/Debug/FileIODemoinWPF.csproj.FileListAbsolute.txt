@@ -1,0 +1,14 @@
+d:\Cdac19\FileIODemoinWPF\FileIODemoinWPF\bin\Debug\FileIODemoinWPF.exe.config
+d:\Cdac19\FileIODemoinWPF\FileIODemoinWPF\bin\Debug\FileIODemoinWPF.exe
+d:\Cdac19\FileIODemoinWPF\FileIODemoinWPF\bin\Debug\FileIODemoinWPF.pdb
+d:\Cdac19\FileIODemoinWPF\FileIODemoinWPF\obj\Debug\FileIODemoinWPF.csprojResolveAssemblyReference.cache
+d:\Cdac19\FileIODemoinWPF\FileIODemoinWPF\obj\Debug\MainWindow.g.cs
+d:\Cdac19\FileIODemoinWPF\FileIODemoinWPF\obj\Debug\App.g.cs
+d:\Cdac19\FileIODemoinWPF\FileIODemoinWPF\obj\Debug\FileIODemoinWPF_MarkupCompile.cache
+d:\Cdac19\FileIODemoinWPF\FileIODemoinWPF\obj\Debug\FileIODemoinWPF_MarkupCompile.lref
+d:\Cdac19\FileIODemoinWPF\FileIODemoinWPF\obj\Debug\MainWindow.baml
+d:\Cdac19\FileIODemoinWPF\FileIODemoinWPF\obj\Debug\FileIODemoinWPF.g.resources
+d:\Cdac19\FileIODemoinWPF\FileIODemoinWPF\obj\Debug\FileIODemoinWPF.Properties.Resources.resources
+d:\Cdac19\FileIODemoinWPF\FileIODemoinWPF\obj\Debug\FileIODemoinWPF.csproj.GenerateResource.Cache
+d:\Cdac19\FileIODemoinWPF\FileIODemoinWPF\obj\Debug\FileIODemoinWPF.exe
+d:\Cdac19\FileIODemoinWPF\FileIODemoinWPF\obj\Debug\FileIODemoinWPF.pdb

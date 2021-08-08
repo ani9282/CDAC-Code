@@ -1,0 +1,16 @@
+﻿<Window x:Class="WpfApplication1.DoubleClickWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="DoubleClickWindow" Height="300" Width="300" x:Name="MyWindow">
+    <Canvas Margin="10">
+        <TextBlock Name="MyBlock" MouseDown="MyBlock_MouseDown"
+            Text="{Binding ElementName=MyWindow, Path=MyText}" Width="145" Height="33" />
+        <TextBox Visibility="Collapsed" Name="MyBox"
+             MouseDoubleClick="MyBox_MouseDoubleClick" >
+            <TextBox.Text>
+                <Binding Path="MyText" ElementName="MyWindow"
+                 UpdateSourceTrigger="PropertyChanged" />
+            </TextBox.Text>
+        </TextBox>
+    </Canvas>
+</Window>

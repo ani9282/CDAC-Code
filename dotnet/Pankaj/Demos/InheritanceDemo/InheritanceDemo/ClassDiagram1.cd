@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="InheritanceDemo.Account">
+    <Position X="3.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAgAAAAgAAAAAAAAAAAABBAAAAAAAAAA=</HashCode>
+      <FileName>AbstractClassDemo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InheritanceDemo.SavingAct">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AbstractClassDemo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InheritanceDemo.CurrentAct">
+    <Position X="5.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AbstractClassDemo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InheritanceDemo.AbstractClassDemo" Collapsed="true">
+    <Position X="10.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>AbstractClassDemo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InheritanceDemo.Employee" Collapsed="true">
+    <Position X="8" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIIAAAAAQAAAAAAAAAAAAAAQABAAA=</HashCode>
+      <FileName>ConstructorInheritance.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InheritanceDemo.Manager" Collapsed="true">
+    <Position X="8" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAAIBAgA=</HashCode>
+      <FileName>ConstructorInheritance.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InheritanceDemo.ConstructorInheritance">
+    <Position X="14" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>ConstructorInheritance.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InheritanceDemo.Program" Collapsed="true">
+    <Position X="10.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InheritanceDemo.BankEmployee">
+    <Position X="5.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>ShadowingDemo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InheritanceDemo.BankManager" Collapsed="true">
+    <Position X="5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>ShadowingDemo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InheritanceDemo.BankMgr1" Collapsed="true">
+    <Position X="12.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ShadowingDemo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InheritanceDemo.ShadowingDemo" Collapsed="true">
+    <Position X="12.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>ShadowingDemo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Samples.Base">
+    <Position X="2.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>func_overriding.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Samples.Derived" Collapsed="true">
+    <Position X="2" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>func_overriding.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Samples.TestApp" Collapsed="true">
+    <Position X="14" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>func_overriding.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

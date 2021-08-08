@@ -1,0 +1,19 @@
+﻿<Window x:Class="WpfApplication1.Window4"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:WpfApplication1"
+        Title="Window4" Height="300" Width="300">
+    <Window.Resources>
+        <local:Person x:Key="p1" Name="Alok"></local:Person>
+            <local:DoubleToWholeNumberValueConverter x:Key="obj"/>
+    </Window.Resources>
+    <Grid>
+        <TextBox Name="T3" Text="{Binding Source={StaticResource p1}, Path=Name}" Margin="134,126,49,110"></TextBox>
+        <TextBox Name="Txt1" Text="{Binding ElementName=slider1,Path=Value,UpdateSourceTrigger=PropertyChanged,Converter={StaticResource obj}}"></TextBox>
+        <Slider Height="23" HorizontalAlignment="Left" Margin="30,163,0,0" Name="slider1" VerticalAlignment="Top" Width="100" Value="10" Maximum="100" Minimum="5" />
+        <Ellipse Height="{Binding ElementName=slider1,Path=Value}" HorizontalAlignment="Left" Margin="44,32,0,0" Name="ellipse1" Stroke="Black" VerticalAlignment="Top" Width="{Binding ElementName=slider1,Path=Value}" />
+        <TextBox Name="T1" Margin="12,101,171,135"></TextBox>
+        <TextBox Name="T2" Text="{Binding ElementName=T1,Path=Text,Mode=OneWay, UpdateSourceTrigger=PropertyChanged}" Margin="134,191,49,46"></TextBox>
+      
+    </Grid>
+</Window>

@@ -1,0 +1,9 @@
+﻿<Window x:Class="WpfApplication1.Window6"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Window6" Height="300" Width="300">
+    <Grid>
+        <Slider Name="sld1" Height="22" HorizontalAlignment="Left" Margin="49,92,0,0"  VerticalAlignment="Top" Width="167" Minimum="1" Maximum="100" Value="10"/>
+        <TextBox Text="{Binding ElementName=sld1,Path=Value,Mode=OneWayToSource, UpdateSourceTrigger=PropertyChanged}"  Name="textBox1" VerticalAlignment="Top" Width="120" />
+    </Grid>
+</Window>

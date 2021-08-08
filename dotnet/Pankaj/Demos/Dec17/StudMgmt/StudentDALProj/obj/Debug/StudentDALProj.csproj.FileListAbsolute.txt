@@ -1,0 +1,9 @@
+d:\Cdac19\StudMgmt\StudentDALProj\bin\Debug\StudentDALProj.dll
+d:\Cdac19\StudMgmt\StudentDALProj\bin\Debug\StudentDALProj.pdb
+d:\Cdac19\StudMgmt\StudentDALProj\bin\Debug\StudentEntity.dll
+d:\Cdac19\StudMgmt\StudentDALProj\bin\Debug\StudentExceptions.dll
+d:\Cdac19\StudMgmt\StudentDALProj\bin\Debug\StudentEntity.pdb
+d:\Cdac19\StudMgmt\StudentDALProj\bin\Debug\StudentExceptions.pdb
+d:\Cdac19\StudMgmt\StudentDALProj\obj\Debug\StudentDALProj.csprojResolveAssemblyReference.cache
+d:\Cdac19\StudMgmt\StudentDALProj\obj\Debug\StudentDALProj.dll
+d:\Cdac19\StudMgmt\StudentDALProj\obj\Debug\StudentDALProj.pdb

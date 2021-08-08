@@ -1,0 +1,18 @@
+C:\Demos\WcfDataContract\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Demos\WcfDataContract\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Demos\WcfDataContract\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Demos\WcfDataContract\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Demos\WcfDataContract\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Demos\WcfDataContract\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Demos\WcfDataContract\WindowsFormsApplication1\obj\x86\Debug\ResGen.read.1.tlog
+C:\Demos\WcfDataContract\WindowsFormsApplication1\obj\x86\Debug\ResGen.write.1.tlog
+C:\Demos\WcfDataContract\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Demos\WcfDataContract\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+D:\Pankaj Data\Laptop Desktop\Accenture\WCF\Demos\WcfDataContract\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\Pankaj Data\Laptop Desktop\Accenture\WCF\Demos\WcfDataContract\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+D:\Pankaj Data\Laptop Desktop\Accenture\WCF\Demos\WcfDataContract\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+D:\Pankaj Data\Laptop Desktop\Accenture\WCF\Demos\WcfDataContract\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Pankaj Data\Laptop Desktop\Accenture\WCF\Demos\WcfDataContract\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Pankaj Data\Laptop Desktop\Accenture\WCF\Demos\WcfDataContract\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\Pankaj Data\Laptop Desktop\Accenture\WCF\Demos\WcfDataContract\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Pankaj Data\Laptop Desktop\Accenture\WCF\Demos\WcfDataContract\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache

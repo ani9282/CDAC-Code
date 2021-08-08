@@ -1,0 +1,30 @@
+C:\Demos\WcfInstance_PerCall\ClientPerCall\bin\Debug\ClientPerCall.exe.config
+C:\Demos\WcfInstance_PerCall\ClientPerCall\bin\Debug\ClientPerCall.exe
+C:\Demos\WcfInstance_PerCall\ClientPerCall\bin\Debug\ClientPerCall.pdb
+C:\Demos\WcfInstance_PerCall\ClientPerCall\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Demos\WcfInstance_PerCall\ClientPerCall\obj\x86\Debug\ClientPerCall.Properties.Resources.resources
+C:\Demos\WcfInstance_PerCall\ClientPerCall\obj\x86\Debug\ResGen.read.1.tlog
+C:\Demos\WcfInstance_PerCall\ClientPerCall\obj\x86\Debug\ResGen.write.1.tlog
+C:\Demos\WcfInstance_PerCall\ClientPerCall\obj\x86\Debug\ClientPerCall.exe
+C:\Demos\WcfInstance_PerCall\ClientPerCall\obj\x86\Debug\ClientPerCall.pdb
+C:\Users\Pankaj\Desktop\Accenture\Demos\WcfInstance_PerCall\ClientPerCall\bin\Debug\ClientPerCall.exe.config
+C:\Users\Pankaj\Desktop\Accenture\Demos\WcfInstance_PerCall\ClientPerCall\obj\x86\Debug\ClientPerCall.exe
+C:\Users\Pankaj\Desktop\Accenture\Demos\WcfInstance_PerCall\ClientPerCall\obj\x86\Debug\ClientPerCall.pdb
+C:\Users\Pankaj\Desktop\Accenture\WCF\Demos\WcfInstance_PerCall\ClientPerCall\bin\Debug\ClientPerCall.exe.config
+C:\Users\Pankaj\Desktop\Accenture\WCF\Demos\WcfInstance_PerCall\ClientPerCall\obj\x86\Debug\ClientPerCall.exe
+C:\Users\Pankaj\Desktop\Accenture\WCF\Demos\WcfInstance_PerCall\ClientPerCall\obj\x86\Debug\ClientPerCall.pdb
+D:\Pankaj Data\Laptop Desktop\Accenture\WCF\Demos\WcfInstance_PerCall\ClientPerCall\bin\Debug\ClientPerCall.exe.config
+D:\Pankaj Data\Laptop Desktop\Accenture\WCF\Demos\WcfInstance_PerCall\ClientPerCall\obj\x86\Debug\ClientPerCall.exe
+D:\Pankaj Data\Laptop Desktop\Accenture\WCF\Demos\WcfInstance_PerCall\ClientPerCall\obj\x86\Debug\ClientPerCall.pdb
+D:\Pankaj Data\Laptop Desktop\Accenture\WCF\Demos\WcfInstance_PerCall\ClientPerCall\bin\Debug\ClientPerCall.exe
+D:\Pankaj Data\Laptop Desktop\Accenture\WCF\Demos\WcfInstance_PerCall\ClientPerCall\bin\Debug\ClientPerCall.pdb
+D:\Pankaj Data\Laptop Desktop\Accenture\WCF\Demos\WcfInstance_PerCall\ClientPerCall\obj\x86\Debug\ClientPerCall.Properties.Resources.resources
+D:\Pankaj Data\Laptop Desktop\Accenture\WCF\Demos\WcfInstance_PerCall\ClientPerCall\obj\x86\Debug\ClientPerCall.csproj.GenerateResource.Cache
+G:\Pankaj Data\Laptop Desktop\Accenture\WCF\Demos\WcfInstance_PerCall\ClientPerCall\bin\Debug\ClientPerCall.exe.config
+G:\Pankaj Data\Laptop Desktop\Accenture\WCF\Demos\WcfInstance_PerCall\ClientPerCall\obj\x86\Debug\ClientPerCall.exe
+G:\Pankaj Data\Laptop Desktop\Accenture\WCF\Demos\WcfInstance_PerCall\ClientPerCall\obj\x86\Debug\ClientPerCall.pdb
+G:\Pankaj Data\Laptop Desktop\Accenture\WCF\Demos\WcfInstance_PerCall\ClientPerCall\bin\Debug\ClientPerCall.exe
+G:\Pankaj Data\Laptop Desktop\Accenture\WCF\Demos\WcfInstance_PerCall\ClientPerCall\bin\Debug\ClientPerCall.pdb
+G:\Pankaj Data\Laptop Desktop\Accenture\WCF\Demos\WcfInstance_PerCall\ClientPerCall\obj\x86\Debug\ClientPerCall.csprojResolveAssemblyReference.cache
+G:\Pankaj Data\Laptop Desktop\Accenture\WCF\Demos\WcfInstance_PerCall\ClientPerCall\obj\x86\Debug\ClientPerCall.Properties.Resources.resources
+G:\Pankaj Data\Laptop Desktop\Accenture\WCF\Demos\WcfInstance_PerCall\ClientPerCall\obj\x86\Debug\ClientPerCall.csproj.GenerateResource.Cache

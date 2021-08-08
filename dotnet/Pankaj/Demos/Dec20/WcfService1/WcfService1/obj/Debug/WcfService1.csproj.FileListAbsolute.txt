@@ -1,0 +1,38 @@
+d:\Cdac19\WcfService1\WcfService1\bin\ApplicationInsights.config
+d:\Cdac19\WcfService1\WcfService1\bin\WcfService1.dll.config
+d:\Cdac19\WcfService1\WcfService1\bin\WcfService1.dll
+d:\Cdac19\WcfService1\WcfService1\bin\WcfService1.pdb
+d:\Cdac19\WcfService1\WcfService1\bin\Microsoft.AI.Agent.Intercept.dll
+d:\Cdac19\WcfService1\WcfService1\bin\Microsoft.AI.DependencyCollector.dll
+d:\Cdac19\WcfService1\WcfService1\bin\Microsoft.AI.PerfCounterCollector.dll
+d:\Cdac19\WcfService1\WcfService1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+d:\Cdac19\WcfService1\WcfService1\bin\Microsoft.AI.Web.dll
+d:\Cdac19\WcfService1\WcfService1\bin\Microsoft.AI.WindowsServer.dll
+d:\Cdac19\WcfService1\WcfService1\bin\Microsoft.ApplicationInsights.dll
+d:\Cdac19\WcfService1\WcfService1\bin\Microsoft.AI.DependencyCollector.xml
+d:\Cdac19\WcfService1\WcfService1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+d:\Cdac19\WcfService1\WcfService1\bin\Microsoft.AI.Web.xml
+d:\Cdac19\WcfService1\WcfService1\bin\Microsoft.AI.WindowsServer.xml
+d:\Cdac19\WcfService1\WcfService1\bin\Microsoft.ApplicationInsights.xml
+d:\Cdac19\WcfService1\WcfService1\obj\Debug\WcfService1.csprojResolveAssemblyReference.cache
+d:\Cdac19\WcfService1\WcfService1\obj\Debug\WcfService1.dll
+d:\Cdac19\WcfService1\WcfService1\obj\Debug\WcfService1.pdb
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec20\WcfService1\WcfService1\bin\ApplicationInsights.config
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec20\WcfService1\WcfService1\bin\WcfService1.dll.config
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec20\WcfService1\WcfService1\bin\WcfService1.dll
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec20\WcfService1\WcfService1\bin\WcfService1.pdb
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec20\WcfService1\WcfService1\bin\Microsoft.AI.Agent.Intercept.dll
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec20\WcfService1\WcfService1\bin\Microsoft.AI.DependencyCollector.dll
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec20\WcfService1\WcfService1\bin\Microsoft.AI.PerfCounterCollector.dll
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec20\WcfService1\WcfService1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec20\WcfService1\WcfService1\bin\Microsoft.AI.Web.dll
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec20\WcfService1\WcfService1\bin\Microsoft.AI.WindowsServer.dll
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec20\WcfService1\WcfService1\bin\Microsoft.ApplicationInsights.dll
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec20\WcfService1\WcfService1\bin\Microsoft.AI.DependencyCollector.xml
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec20\WcfService1\WcfService1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec20\WcfService1\WcfService1\bin\Microsoft.AI.Web.xml
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec20\WcfService1\WcfService1\bin\Microsoft.AI.WindowsServer.xml
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec20\WcfService1\WcfService1\bin\Microsoft.ApplicationInsights.xml
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec20\WcfService1\WcfService1\obj\Debug\WcfService1.csprojResolveAssemblyReference.cache
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec20\WcfService1\WcfService1\obj\Debug\WcfService1.dll
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec20\WcfService1\WcfService1\obj\Debug\WcfService1.pdb

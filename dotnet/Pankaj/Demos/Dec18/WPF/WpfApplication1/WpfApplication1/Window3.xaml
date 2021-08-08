@@ -1,0 +1,24 @@
+﻿<Window x:Class="WpfApplication1.Window3"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Window3" Height="300" Width="300">
+    <Canvas>
+        <Ellipse Fill="Green" Width="60" Height="60" Canvas.Left="30" Canvas.Top="20" Canvas.ZIndex="2"/>
+        <Ellipse Fill="Blue"  Width="60" Height="60" Canvas.Left="60" Canvas.Top="40" Canvas.ZIndex="1"/>
+        <Ellipse Fill="Orange" Width="60" Height="60" Canvas.Left="130" Canvas.Top="60" />
+        <Ellipse Fill="Red"  Width="60" Height="60" Canvas.Left="160" Canvas.Top="80"/>
+    </Canvas>
+
+    <!--<Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Label Content="Left" Grid.Column="0" />
+        <Label Content="Center" Grid.Column="1" />
+        <GridSplitter HorizontalAlignment="Left" ResizeBehavior="PreviousAndNext"
+                  Width="3" Background="#FFBCBCBC" Grid.Column="2" />
+        <Label Content="Right" Grid.Column="2" />
+    </Grid>-->
+</Window>

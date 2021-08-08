@@ -1,0 +1,17 @@
+C:\Demos\WcfFaultContractDemo\ClientAplica\bin\Debug\ClientAplica.exe.config
+C:\Demos\WcfFaultContractDemo\ClientAplica\bin\Debug\ClientAplica.exe
+C:\Demos\WcfFaultContractDemo\ClientAplica\bin\Debug\ClientAplica.pdb
+C:\Demos\WcfFaultContractDemo\ClientAplica\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Demos\WcfFaultContractDemo\ClientAplica\obj\x86\Debug\ClientAplica.exe
+C:\Demos\WcfFaultContractDemo\ClientAplica\obj\x86\Debug\ClientAplica.pdb
+C:\Demos\WCF Demos\WcfFaultContractDemo\ClientAplica\bin\Debug\ClientAplica.exe.config
+C:\Demos\WCF Demos\WcfFaultContractDemo\ClientAplica\obj\x86\Debug\ClientAplica.exe
+C:\Demos\WCF Demos\WcfFaultContractDemo\ClientAplica\obj\x86\Debug\ClientAplica.pdb
+D:\Pankaj Data\Laptop Desktop\Accenture\WCF\Demos\WcfFaultContractDemo\ClientAplica\bin\Debug\ClientAplica.exe.config
+D:\Pankaj Data\Laptop Desktop\Accenture\WCF\Demos\WcfFaultContractDemo\ClientAplica\obj\x86\Debug\ClientAplica.exe
+D:\Pankaj Data\Laptop Desktop\Accenture\WCF\Demos\WcfFaultContractDemo\ClientAplica\obj\x86\Debug\ClientAplica.pdb
+D:\Pankaj Data\Laptop Desktop\Accenture\WCF\Demos\WcfFaultContractDemo\ClientAplica\bin\Debug\ClientAplica.exe
+D:\Pankaj Data\Laptop Desktop\Accenture\WCF\Demos\WcfFaultContractDemo\ClientAplica\bin\Debug\ClientAplica.pdb
+G:\Pankaj Data\Laptop Desktop\Accenture\WCF\Demos\WcfFaultContractDemo\ClientAplica\bin\Debug\ClientAplica.exe.config
+G:\Pankaj Data\Laptop Desktop\Accenture\WCF\Demos\WcfFaultContractDemo\ClientAplica\obj\x86\Debug\ClientAplica.exe
+G:\Pankaj Data\Laptop Desktop\Accenture\WCF\Demos\WcfFaultContractDemo\ClientAplica\obj\x86\Debug\ClientAplica.pdb

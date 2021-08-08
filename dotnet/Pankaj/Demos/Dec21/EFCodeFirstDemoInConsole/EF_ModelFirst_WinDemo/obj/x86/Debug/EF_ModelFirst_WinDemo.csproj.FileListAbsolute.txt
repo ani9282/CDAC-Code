@@ -1,0 +1,16 @@
+E:\AccDemos\EFCodeFirstDemoInConsole\EF_ModelFirst_WinDemo\bin\Debug\EF_ModelFirst_WinDemo.exe.config
+E:\AccDemos\EFCodeFirstDemoInConsole\EF_ModelFirst_WinDemo\bin\Debug\EF_ModelFirst_WinDemo.exe
+E:\AccDemos\EFCodeFirstDemoInConsole\EF_ModelFirst_WinDemo\bin\Debug\EF_ModelFirst_WinDemo.pdb
+E:\AccDemos\EFCodeFirstDemoInConsole\EF_ModelFirst_WinDemo\obj\x86\Debug\EF_ModelFirst_WinDemo.csprojResolveAssemblyReference.cache
+E:\AccDemos\EFCodeFirstDemoInConsole\EF_ModelFirst_WinDemo\obj\x86\Debug\EF_ModelFirst_WinDemo.Properties.Resources.resources
+E:\AccDemos\EFCodeFirstDemoInConsole\EF_ModelFirst_WinDemo\obj\x86\Debug\EF_ModelFirst_WinDemo.csproj.GenerateResource.Cache
+E:\AccDemos\EFCodeFirstDemoInConsole\EF_ModelFirst_WinDemo\obj\x86\Debug\EF_ModelFirst_WinDemo.exe
+E:\AccDemos\EFCodeFirstDemoInConsole\EF_ModelFirst_WinDemo\obj\x86\Debug\EF_ModelFirst_WinDemo.pdb
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec21\EFCodeFirstDemoInConsole\EF_ModelFirst_WinDemo\bin\Debug\EF_ModelFirst_WinDemo.exe.config
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec21\EFCodeFirstDemoInConsole\EF_ModelFirst_WinDemo\bin\Debug\EF_ModelFirst_WinDemo.exe
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec21\EFCodeFirstDemoInConsole\EF_ModelFirst_WinDemo\bin\Debug\EF_ModelFirst_WinDemo.pdb
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec21\EFCodeFirstDemoInConsole\EF_ModelFirst_WinDemo\obj\x86\Debug\EF_ModelFirst_WinDemo.csprojResolveAssemblyReference.cache
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec21\EFCodeFirstDemoInConsole\EF_ModelFirst_WinDemo\obj\x86\Debug\EF_ModelFirst_WinDemo.Properties.Resources.resources
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec21\EFCodeFirstDemoInConsole\EF_ModelFirst_WinDemo\obj\x86\Debug\EF_ModelFirst_WinDemo.csproj.GenerateResource.Cache
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec21\EFCodeFirstDemoInConsole\EF_ModelFirst_WinDemo\obj\x86\Debug\EF_ModelFirst_WinDemo.exe
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec21\EFCodeFirstDemoInConsole\EF_ModelFirst_WinDemo\obj\x86\Debug\EF_ModelFirst_WinDemo.pdb

@@ -1,0 +1,10 @@
+C:\Demos\WcfKnownTypeAttribExp\WcfKnownTypeAttribExp\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Demos\WcfKnownTypeAttribExp\WcfKnownTypeAttribExp\bin\Debug\WcfKnownTypeAttribExp.exe
+C:\Demos\WcfKnownTypeAttribExp\WcfKnownTypeAttribExp\bin\Debug\WcfKnownTypeAttribExp.pdb
+C:\Demos\WcfKnownTypeAttribExp\WcfKnownTypeAttribExp\obj\x86\Debug\WcfKnownTypeAttribExp.exe
+C:\Demos\WcfKnownTypeAttribExp\WcfKnownTypeAttribExp\obj\x86\Debug\WcfKnownTypeAttribExp.pdb
+D:\Pankaj Data\Laptop Desktop\Accenture\WCF\Demos\WcfKnownTypeAttribExp\WcfKnownTypeAttribExp\obj\x86\Debug\WcfKnownTypeAttribExp.exe
+D:\Pankaj Data\Laptop Desktop\Accenture\WCF\Demos\WcfKnownTypeAttribExp\WcfKnownTypeAttribExp\obj\x86\Debug\WcfKnownTypeAttribExp.pdb
+D:\Pankaj Data\Laptop Desktop\Accenture\WCF\Demos\WcfKnownTypeAttribExp\WcfKnownTypeAttribExp\bin\Debug\WcfKnownTypeAttribExp.exe
+D:\Pankaj Data\Laptop Desktop\Accenture\WCF\Demos\WcfKnownTypeAttribExp\WcfKnownTypeAttribExp\bin\Debug\WcfKnownTypeAttribExp.pdb
+D:\Pankaj Data\Laptop Desktop\Accenture\WCF\Demos\WcfKnownTypeAttribExp\WcfKnownTypeAttribExp\obj\x86\Debug\WcfKnownTypeAttribExp.csprojResolveAssemblyReference.cache

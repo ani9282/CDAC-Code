@@ -1,0 +1,6 @@
+C:\Demos\WcfFaultServiceDemo\WcfFaultConsoleApplica\bin\Debug\WcfFaultConsoleApplica.exe.config
+C:\Demos\WcfFaultServiceDemo\WcfFaultConsoleApplica\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Demos\WcfFaultServiceDemo\WcfFaultConsoleApplica\bin\Debug\WcfFaultConsoleApplica.exe
+C:\Demos\WcfFaultServiceDemo\WcfFaultConsoleApplica\bin\Debug\WcfFaultConsoleApplica.pdb
+C:\Demos\WcfFaultServiceDemo\WcfFaultConsoleApplica\obj\x86\Debug\WcfFaultConsoleApplica.exe
+C:\Demos\WcfFaultServiceDemo\WcfFaultConsoleApplica\obj\x86\Debug\WcfFaultConsoleApplica.pdb

@@ -1,0 +1,15 @@
+C:\Users\Pankaj\Desktop\Accenture\WCF_in_details_src\WCFDemoSolution\ConsoleClient\bin\x86\Debug\ConsoleClient.exe.config
+C:\Users\Pankaj\Desktop\Accenture\WCF_in_details_src\WCFDemoSolution\ConsoleClient\bin\x86\Debug\ConsoleClient.exe
+C:\Users\Pankaj\Desktop\Accenture\WCF_in_details_src\WCFDemoSolution\ConsoleClient\bin\x86\Debug\ConsoleClient.pdb
+C:\Users\Pankaj\Desktop\Accenture\WCF_in_details_src\WCFDemoSolution\ConsoleClient\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Pankaj\Desktop\Accenture\WCF_in_details_src\WCFDemoSolution\ConsoleClient\obj\x86\Debug\ConsoleClient.exe
+C:\Users\Pankaj\Desktop\Accenture\WCF_in_details_src\WCFDemoSolution\ConsoleClient\obj\x86\Debug\ConsoleClient.pdb
+C:\Users\Pankaj\Desktop\Accenture\WCF\WCF_in_details_src\WCFDemoSolution\ConsoleClient\bin\x86\Debug\ConsoleClient.exe.config
+C:\Users\Pankaj\Desktop\Accenture\WCF\WCF_in_details_src\WCFDemoSolution\ConsoleClient\obj\x86\Debug\ConsoleClient.exe
+C:\Users\Pankaj\Desktop\Accenture\WCF\WCF_in_details_src\WCFDemoSolution\ConsoleClient\obj\x86\Debug\ConsoleClient.pdb
+D:\Pankaj Data\Laptop Desktop\Accenture\WCF\WCF_in_details_src\WCFDemoSolution\ConsoleClient\bin\x86\Debug\ConsoleClient.exe.config
+D:\Pankaj Data\Laptop Desktop\Accenture\WCF\WCF_in_details_src\WCFDemoSolution\ConsoleClient\obj\x86\Debug\ConsoleClient.exe
+D:\Pankaj Data\Laptop Desktop\Accenture\WCF\WCF_in_details_src\WCFDemoSolution\ConsoleClient\obj\x86\Debug\ConsoleClient.pdb
+G:\Pankaj Data\Laptop Desktop\Accenture\WCF\WCF_in_details_src\WCFDemoSolution\ConsoleClient\bin\x86\Debug\ConsoleClient.exe.config
+G:\Pankaj Data\Laptop Desktop\Accenture\WCF\WCF_in_details_src\WCFDemoSolution\ConsoleClient\obj\x86\Debug\ConsoleClient.exe
+G:\Pankaj Data\Laptop Desktop\Accenture\WCF\WCF_in_details_src\WCFDemoSolution\ConsoleClient\obj\x86\Debug\ConsoleClient.pdb

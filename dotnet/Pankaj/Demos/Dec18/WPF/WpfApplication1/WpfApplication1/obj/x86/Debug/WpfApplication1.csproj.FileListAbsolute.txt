@@ -1,0 +1,388 @@
+C:\Demos\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Demos\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\MainWindow.baml
+C:\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\MainWindow.g.cs
+C:\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\App.g.cs
+C:\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1_MarkupCompile.cache
+C:\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.g.resources
+C:\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.Properties.Resources.resources
+C:\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\ResGen.read.1.tlog
+C:\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\ResGen.write.1.tlog
+C:\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.exe
+C:\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.pdb
+C:\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\Window1.baml
+C:\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\Window1.g.cs
+C:\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\Window2.baml
+C:\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\Window3.baml
+C:\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WinImageViewer.baml
+C:\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\Window2.g.cs
+C:\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\Window3.g.cs
+C:\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WinImageViewer.g.cs
+C:\Demos\WpfApplication1\WpfApplication1\bin\Debug\WPFToolkit.dll
+C:\Demos\WpfApplication1\WpfApplication1\bin\Debug\WPFToolkit.pdb
+C:\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WinGeometryClassDemo.baml
+C:\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WinShapeClassDemo.baml
+C:\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WinGeometryClassDemo.g.cs
+C:\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WinShapeClassDemo.g.cs
+C:\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WinRoutedEventDemo.baml
+C:\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WinRoutedEventDemo.g.cs
+C:\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WinWPFStylesDemo.baml
+C:\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\App.baml
+C:\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WinWPFStylesDemo.g.cs
+C:\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WinNonRectWindow.baml
+C:\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WinWPFLayoutDemo.baml
+C:\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WinNonRectWindow.g.cs
+C:\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WinWPFLayoutDemo.g.cs
+C:\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WinWPFTemplateDemo.baml
+C:\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WinWPFTemplateDemo.g.cs
+C:\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WinWPFDataTemplate.baml
+C:\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WinWPFDataTemplate.g.cs
+C:\Demos\WpfApplication1\WpfApplication1\bin\Debug\WpfCustomControlLibrary1.dll
+C:\Demos\WpfApplication1\WpfApplication1\bin\Debug\WpfCustomControlLibrary1.pdb
+C:\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WinUseOfCustomControl.baml
+C:\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WinUseOfCustomControl.g.cs
+C:\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\Win3DCube.baml
+C:\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\Win3DCube.g.cs
+C:\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WinWpfDataBinding.baml
+C:\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WinWpfDataBinding.g.cs
+C:\Users\Pankaj\Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.exe
+C:\Users\Pankaj\Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.pdb
+C:\Users\Pankaj\Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\Pankaj\Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\Pankaj\Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\bin\Debug\WpfCustomControlLibrary1.dll
+C:\Users\Pankaj\Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\bin\Debug\WPFToolkit.dll
+C:\Users\Pankaj\Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\bin\Debug\WpfCustomControlLibrary1.pdb
+C:\Users\Pankaj\Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\bin\Debug\WPFToolkit.pdb
+C:\Users\Pankaj\Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Pankaj\Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\MainWindow.baml
+C:\Users\Pankaj\Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\Win3DCube.baml
+C:\Users\Pankaj\Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\Window1.baml
+C:\Users\Pankaj\Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\Window2.baml
+C:\Users\Pankaj\Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\Window3.baml
+C:\Users\Pankaj\Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WinGeometryClassDemo.baml
+C:\Users\Pankaj\Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WinImageViewer.baml
+C:\Users\Pankaj\Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WinNonRectWindow.baml
+C:\Users\Pankaj\Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WinRoutedEventDemo.baml
+C:\Users\Pankaj\Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WinShapeClassDemo.baml
+C:\Users\Pankaj\Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WinUseOfCustomControl.baml
+C:\Users\Pankaj\Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WinWpfDataBinding.baml
+C:\Users\Pankaj\Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WinWPFDataTemplate.baml
+C:\Users\Pankaj\Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WinWPFLayoutDemo.baml
+C:\Users\Pankaj\Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WinWPFStylesDemo.baml
+C:\Users\Pankaj\Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WinWPFTemplateDemo.baml
+C:\Users\Pankaj\Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\App.baml
+C:\Users\Pankaj\Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Pankaj\Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\Win3DCube.g.cs
+C:\Users\Pankaj\Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\Window1.g.cs
+C:\Users\Pankaj\Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\Window2.g.cs
+C:\Users\Pankaj\Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\Window3.g.cs
+C:\Users\Pankaj\Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WinGeometryClassDemo.g.cs
+C:\Users\Pankaj\Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WinImageViewer.g.cs
+C:\Users\Pankaj\Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WinNonRectWindow.g.cs
+C:\Users\Pankaj\Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WinRoutedEventDemo.g.cs
+C:\Users\Pankaj\Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WinShapeClassDemo.g.cs
+C:\Users\Pankaj\Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WinUseOfCustomControl.g.cs
+C:\Users\Pankaj\Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WinWpfDataBinding.g.cs
+C:\Users\Pankaj\Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WinWPFDataTemplate.g.cs
+C:\Users\Pankaj\Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WinWPFLayoutDemo.g.cs
+C:\Users\Pankaj\Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WinWPFStylesDemo.g.cs
+C:\Users\Pankaj\Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WinWPFTemplateDemo.g.cs
+C:\Users\Pankaj\Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\App.g.cs
+C:\Users\Pankaj\Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\Pankaj\Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.g.resources
+C:\Users\Pankaj\Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\Pankaj\Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Pankaj\Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Pankaj\Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\DoubleClickWindow.baml
+C:\Users\Pankaj\Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\DoubleClickWindow.g.cs
+C:\Users\Pankaj\Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\ExpanderControlDemo.baml
+C:\Users\Pankaj\Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\ExpanderControlDemo.g.cs
+C:\Users\Pankaj\Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WinVedioBtn.baml
+C:\Users\Pankaj\Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WinVedioBtn.g.cs
+D:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.exe
+D:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.pdb
+D:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+D:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+D:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\bin\Debug\WpfCustomControlLibrary1.dll
+D:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\bin\Debug\WpfCustomControlLibrary1.pdb
+D:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\bin\Debug\WPFToolkit.pdb
+D:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+D:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\DoubleClickWindow.baml
+D:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\ExpanderControlDemo.baml
+D:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\MainWindow.baml
+D:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\Win3DCube.baml
+D:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\Window1.baml
+D:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\Window2.baml
+D:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\Window3.baml
+D:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WinGeometryClassDemo.baml
+D:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WinImageViewer.baml
+D:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WinNonRectWindow.baml
+D:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WinRoutedEventDemo.baml
+D:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WinShapeClassDemo.baml
+D:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WinUseOfCustomControl.baml
+D:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WinVedioBtn.baml
+D:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WinWpfDataBinding.baml
+D:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WinWPFDataTemplate.baml
+D:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WinWPFLayoutDemo.baml
+D:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WinWPFStylesDemo.baml
+D:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WinWPFTemplateDemo.baml
+D:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\App.baml
+D:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\DoubleClickWindow.g.cs
+D:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\ExpanderControlDemo.g.cs
+D:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\MainWindow.g.cs
+D:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\Win3DCube.g.cs
+D:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\Window1.g.cs
+D:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\Window2.g.cs
+D:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\Window3.g.cs
+D:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WinGeometryClassDemo.g.cs
+D:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WinImageViewer.g.cs
+D:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WinNonRectWindow.g.cs
+D:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WinRoutedEventDemo.g.cs
+D:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WinShapeClassDemo.g.cs
+D:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WinUseOfCustomControl.g.cs
+D:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WinVedioBtn.g.cs
+D:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WinWpfDataBinding.g.cs
+D:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WinWPFDataTemplate.g.cs
+D:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WinWPFLayoutDemo.g.cs
+D:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WinWPFStylesDemo.g.cs
+D:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WinWPFTemplateDemo.g.cs
+D:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\App.g.cs
+D:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1_MarkupCompile.cache
+D:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.g.resources
+D:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.Properties.Resources.resources
+D:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.csproj.GenerateResource.Cache
+D:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\Window4.baml
+D:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\Window4.g.cs
+D:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1_MarkupCompile.lref
+D:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\Window5.baml
+D:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\Window5.g.cs
+E:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.exe
+E:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.pdb
+E:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+E:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+E:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\bin\Debug\WpfCustomControlLibrary1.dll
+E:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\bin\Debug\WpfCustomControlLibrary1.pdb
+E:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\bin\Debug\WPFToolkit.pdb
+E:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\DoubleClickWindow.baml
+E:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\ExpanderControlDemo.baml
+E:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\MainWindow.baml
+E:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\Win3DCube.baml
+E:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\Window1.baml
+E:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\Window2.baml
+E:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\Window3.baml
+E:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\Window5.baml
+E:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WinGeometryClassDemo.baml
+E:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WinImageViewer.baml
+E:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WinNonRectWindow.baml
+E:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WinRoutedEventDemo.baml
+E:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WinShapeClassDemo.baml
+E:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WinUseOfCustomControl.baml
+E:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WinVedioBtn.baml
+E:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WinWpfDataBinding.baml
+E:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WinWPFDataTemplate.baml
+E:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WinWPFLayoutDemo.baml
+E:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WinWPFStylesDemo.baml
+E:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WinWPFTemplateDemo.baml
+E:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\App.baml
+E:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\DoubleClickWindow.g.cs
+E:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\ExpanderControlDemo.g.cs
+E:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\MainWindow.g.cs
+E:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\Win3DCube.g.cs
+E:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\Window1.g.cs
+E:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\Window2.g.cs
+E:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\Window3.g.cs
+E:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\Window4.g.cs
+E:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\Window5.g.cs
+E:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WinGeometryClassDemo.g.cs
+E:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WinImageViewer.g.cs
+E:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WinNonRectWindow.g.cs
+E:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WinRoutedEventDemo.g.cs
+E:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WinShapeClassDemo.g.cs
+E:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WinUseOfCustomControl.g.cs
+E:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WinVedioBtn.g.cs
+E:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WinWpfDataBinding.g.cs
+E:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WinWPFDataTemplate.g.cs
+E:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WinWPFLayoutDemo.g.cs
+E:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WinWPFStylesDemo.g.cs
+E:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WinWPFTemplateDemo.g.cs
+E:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\App.g.cs
+E:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1_MarkupCompile.cache
+E:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1_MarkupCompile.lref
+E:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\Window4.baml
+E:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.g.resources
+E:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.Properties.Resources.resources
+E:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+E:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.csproj.GenerateResource.Cache
+G:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.exe
+G:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.pdb
+G:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+G:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+G:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\bin\Debug\WpfCustomControlLibrary1.dll
+G:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\bin\Debug\WpfCustomControlLibrary1.pdb
+G:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\bin\Debug\WPFToolkit.pdb
+G:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\DoubleClickWindow.baml
+G:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\ExpanderControlDemo.baml
+G:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\MainWindow.baml
+G:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\Win3DCube.baml
+G:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\Window1.baml
+G:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\Window2.baml
+G:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\Window3.baml
+G:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\Window5.baml
+G:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WinGeometryClassDemo.baml
+G:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WinImageViewer.baml
+G:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WinNonRectWindow.baml
+G:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WinRoutedEventDemo.baml
+G:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WinShapeClassDemo.baml
+G:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WinUseOfCustomControl.baml
+G:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WinVedioBtn.baml
+G:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WinWpfDataBinding.baml
+G:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WinWPFDataTemplate.baml
+G:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WinWPFLayoutDemo.baml
+G:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WinWPFStylesDemo.baml
+G:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WinWPFTemplateDemo.baml
+G:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\App.baml
+G:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\DoubleClickWindow.g.cs
+G:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\ExpanderControlDemo.g.cs
+G:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\MainWindow.g.cs
+G:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\Win3DCube.g.cs
+G:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\Window1.g.cs
+G:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\Window2.g.cs
+G:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\Window3.g.cs
+G:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\Window4.g.cs
+G:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\Window5.g.cs
+G:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WinGeometryClassDemo.g.cs
+G:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WinImageViewer.g.cs
+G:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WinNonRectWindow.g.cs
+G:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WinRoutedEventDemo.g.cs
+G:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WinShapeClassDemo.g.cs
+G:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WinUseOfCustomControl.g.cs
+G:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WinVedioBtn.g.cs
+G:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WinWpfDataBinding.g.cs
+G:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WinWPFDataTemplate.g.cs
+G:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WinWPFLayoutDemo.g.cs
+G:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WinWPFStylesDemo.g.cs
+G:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WinWPFTemplateDemo.g.cs
+G:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\App.g.cs
+G:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+G:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1_MarkupCompile.cache
+G:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1_MarkupCompile.lref
+G:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\Window4.baml
+G:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.g.resources
+G:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.Properties.Resources.resources
+G:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+G:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.csproj.GenerateResource.Cache
+G:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\Window6.baml
+G:\Pankaj Data\Laptop Desktop\Accenture\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\Window6.g.cs
+E:\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.exe
+E:\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.pdb
+E:\WPF\Demos\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe
+E:\WPF\Demos\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.pdb
+E:\WPF\Demos\WpfApplication1\WpfApplication1\bin\Debug\WpfCustomControlLibrary1.dll
+E:\WPF\Demos\WpfApplication1\WpfApplication1\bin\Debug\WpfCustomControlLibrary1.pdb
+E:\WPF\Demos\WpfApplication1\WpfApplication1\bin\Debug\WPFToolkit.pdb
+E:\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+E:\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\DoubleClickWindow.baml
+E:\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\ExpanderControlDemo.baml
+E:\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\MainWindow.baml
+E:\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\Win3DCube.baml
+E:\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\Window1.baml
+E:\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\Window2.baml
+E:\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\Window3.baml
+E:\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\Window5.baml
+E:\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\Window6.baml
+E:\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WinGeometryClassDemo.baml
+E:\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WinImageViewer.baml
+E:\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WinNonRectWindow.baml
+E:\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WinRoutedEventDemo.baml
+E:\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WinShapeClassDemo.baml
+E:\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WinUseOfCustomControl.baml
+E:\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WinVedioBtn.baml
+E:\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WinWpfDataBinding.baml
+E:\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WinWPFDataTemplate.baml
+E:\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WinWPFLayoutDemo.baml
+E:\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WinWPFStylesDemo.baml
+E:\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WinWPFTemplateDemo.baml
+E:\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\App.baml
+E:\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\DoubleClickWindow.g.cs
+E:\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\ExpanderControlDemo.g.cs
+E:\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\MainWindow.g.cs
+E:\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\Win3DCube.g.cs
+E:\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\Window1.g.cs
+E:\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\Window2.g.cs
+E:\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\Window3.g.cs
+E:\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\Window4.g.cs
+E:\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\Window5.g.cs
+E:\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\Window6.g.cs
+E:\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WinGeometryClassDemo.g.cs
+E:\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WinImageViewer.g.cs
+E:\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WinNonRectWindow.g.cs
+E:\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WinRoutedEventDemo.g.cs
+E:\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WinShapeClassDemo.g.cs
+E:\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WinUseOfCustomControl.g.cs
+E:\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WinVedioBtn.g.cs
+E:\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WinWpfDataBinding.g.cs
+E:\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WinWPFDataTemplate.g.cs
+E:\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WinWPFLayoutDemo.g.cs
+E:\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WinWPFStylesDemo.g.cs
+E:\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WinWPFTemplateDemo.g.cs
+E:\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\App.g.cs
+E:\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+E:\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1_MarkupCompile.cache
+E:\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1_MarkupCompile.lref
+E:\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\Window4.baml
+E:\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.g.resources
+E:\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.Properties.Resources.resources
+E:\WPF\Demos\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.csproj.GenerateResource.Cache
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec18\WPF\WpfApplication1\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec18\WPF\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.exe
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec18\WPF\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.pdb
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec18\WPF\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec18\WPF\WpfApplication1\WpfApplication1\obj\x86\Debug\DoubleClickWindow.baml
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec18\WPF\WpfApplication1\WpfApplication1\obj\x86\Debug\ExpanderControlDemo.baml
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec18\WPF\WpfApplication1\WpfApplication1\obj\x86\Debug\MainWindow.baml
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec18\WPF\WpfApplication1\WpfApplication1\obj\x86\Debug\Win3DCube.baml
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec18\WPF\WpfApplication1\WpfApplication1\obj\x86\Debug\Window1.baml
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec18\WPF\WpfApplication1\WpfApplication1\obj\x86\Debug\Window2.baml
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec18\WPF\WpfApplication1\WpfApplication1\obj\x86\Debug\Window3.baml
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec18\WPF\WpfApplication1\WpfApplication1\obj\x86\Debug\Window5.baml
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec18\WPF\WpfApplication1\WpfApplication1\obj\x86\Debug\Window6.baml
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec18\WPF\WpfApplication1\WpfApplication1\obj\x86\Debug\WinGeometryClassDemo.baml
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec18\WPF\WpfApplication1\WpfApplication1\obj\x86\Debug\WinImageViewer.baml
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec18\WPF\WpfApplication1\WpfApplication1\obj\x86\Debug\WinNonRectWindow.baml
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec18\WPF\WpfApplication1\WpfApplication1\obj\x86\Debug\WinRoutedEventDemo.baml
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec18\WPF\WpfApplication1\WpfApplication1\obj\x86\Debug\WinShapeClassDemo.baml
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec18\WPF\WpfApplication1\WpfApplication1\obj\x86\Debug\WinVedioBtn.baml
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec18\WPF\WpfApplication1\WpfApplication1\obj\x86\Debug\WinWpfDataBinding.baml
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec18\WPF\WpfApplication1\WpfApplication1\obj\x86\Debug\WinWPFDataTemplate.baml
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec18\WPF\WpfApplication1\WpfApplication1\obj\x86\Debug\WinWPFLayoutDemo.baml
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec18\WPF\WpfApplication1\WpfApplication1\obj\x86\Debug\WinWPFStylesDemo.baml
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec18\WPF\WpfApplication1\WpfApplication1\obj\x86\Debug\WinWPFTemplateDemo.baml
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec18\WPF\WpfApplication1\WpfApplication1\obj\x86\Debug\App.baml
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec18\WPF\WpfApplication1\WpfApplication1\obj\x86\Debug\DoubleClickWindow.g.cs
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec18\WPF\WpfApplication1\WpfApplication1\obj\x86\Debug\ExpanderControlDemo.g.cs
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec18\WPF\WpfApplication1\WpfApplication1\obj\x86\Debug\MainWindow.g.cs
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec18\WPF\WpfApplication1\WpfApplication1\obj\x86\Debug\Win3DCube.g.cs
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec18\WPF\WpfApplication1\WpfApplication1\obj\x86\Debug\Window1.g.cs
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec18\WPF\WpfApplication1\WpfApplication1\obj\x86\Debug\Window2.g.cs
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec18\WPF\WpfApplication1\WpfApplication1\obj\x86\Debug\Window3.g.cs
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec18\WPF\WpfApplication1\WpfApplication1\obj\x86\Debug\Window4.g.cs
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec18\WPF\WpfApplication1\WpfApplication1\obj\x86\Debug\Window5.g.cs
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec18\WPF\WpfApplication1\WpfApplication1\obj\x86\Debug\Window6.g.cs
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec18\WPF\WpfApplication1\WpfApplication1\obj\x86\Debug\WinGeometryClassDemo.g.cs
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec18\WPF\WpfApplication1\WpfApplication1\obj\x86\Debug\WinImageViewer.g.cs
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec18\WPF\WpfApplication1\WpfApplication1\obj\x86\Debug\WinNonRectWindow.g.cs
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec18\WPF\WpfApplication1\WpfApplication1\obj\x86\Debug\WinRoutedEventDemo.g.cs
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec18\WPF\WpfApplication1\WpfApplication1\obj\x86\Debug\WinShapeClassDemo.g.cs
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec18\WPF\WpfApplication1\WpfApplication1\obj\x86\Debug\WinVedioBtn.g.cs
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec18\WPF\WpfApplication1\WpfApplication1\obj\x86\Debug\WinWpfDataBinding.g.cs
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec18\WPF\WpfApplication1\WpfApplication1\obj\x86\Debug\WinWPFDataTemplate.g.cs
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec18\WPF\WpfApplication1\WpfApplication1\obj\x86\Debug\WinWPFLayoutDemo.g.cs
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec18\WPF\WpfApplication1\WpfApplication1\obj\x86\Debug\WinWPFStylesDemo.g.cs
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec18\WPF\WpfApplication1\WpfApplication1\obj\x86\Debug\WinWPFTemplateDemo.g.cs
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec18\WPF\WpfApplication1\WpfApplication1\obj\x86\Debug\App.g.cs
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec18\WPF\WpfApplication1\WpfApplication1\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec18\WPF\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1_MarkupCompile.cache
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec18\WPF\WpfApplication1\WpfApplication1\obj\x86\Debug\WpfApplication1_MarkupCompile.lref

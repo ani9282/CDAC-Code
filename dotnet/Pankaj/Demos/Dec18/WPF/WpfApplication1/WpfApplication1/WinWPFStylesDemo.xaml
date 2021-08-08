@@ -1,0 +1,26 @@
+﻿<Window x:Class="WpfApplication1.WinWPFStylesDemo"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="WinWPFStylesDemo" Height="300" Width="300">
+    <Window.Resources>
+        <Style x:Key="Hot" TargetType="Button">
+            <Setter Property="Background" Value="Red" />
+            <Setter Property="FontStyle" Value="Italic" />
+            <Setter Property="Padding" Value="8,4" />
+            <Setter Property="Margin" Value="4" />            
+        </Style>
+        <Style x:Key="cool" TargetType="Button">
+            <Setter Property="Background" Value="Aqua" />
+            <Setter Property="FontStyle" Value="Italic" />
+            <Setter Property="Padding" Value="8,4" />
+            <Setter Property="Margin" Value="4" />
+        </Style>
+    </Window.Resources>
+
+    <StackPanel Orientation="Horizontal" VerticalAlignment="Top">
+        <Button Style="{StaticResource Hot}">Styles</Button>
+        <Button Style="{StaticResource cool}">are</Button>
+        <Button Style="{StaticResource Hot}">cool</Button>
+    </StackPanel>
+
+</Window>

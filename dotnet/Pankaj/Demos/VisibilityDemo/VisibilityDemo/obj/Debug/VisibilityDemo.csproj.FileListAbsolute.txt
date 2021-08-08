@@ -1,0 +1,7 @@
+d:\Cdac19\VisibilityDemo\VisibilityDemo\bin\Debug\VisibilityDemo.exe.config
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\VisibilityDemo\VisibilityDemo\bin\Debug\VisibilityDemo.exe.config
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\VisibilityDemo\VisibilityDemo\bin\Debug\VisibilityDemo.exe
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\VisibilityDemo\VisibilityDemo\bin\Debug\VisibilityDemo.pdb
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\VisibilityDemo\VisibilityDemo\obj\Debug\VisibilityDemo.csprojResolveAssemblyReference.cache
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\VisibilityDemo\VisibilityDemo\obj\Debug\VisibilityDemo.exe
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\VisibilityDemo\VisibilityDemo\obj\Debug\VisibilityDemo.pdb

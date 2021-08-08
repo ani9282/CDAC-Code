@@ -1,0 +1,8 @@
+﻿<Window x:Class="WpfApplication1.WinShapeClassDemo"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="WinShapeClassDemo" Height="300" Width="300">
+    <Grid>
+        <Ellipse x:Name="myCircle" Height="100" Width="100" Fill="Red" MouseEnter="myCircle_MouseEnter" />
+    </Grid>
+</Window>

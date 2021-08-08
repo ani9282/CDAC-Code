@@ -1,0 +1,5 @@
+P:\Users\abdusyed\Abdul Syed_142449\Module 2\04-01-2018\StudentMgmtSystem\SMS.Exception\bin\Debug\SMS.Exception.dll
+P:\Users\abdusyed\Abdul Syed_142449\Module 2\04-01-2018\StudentMgmtSystem\SMS.Exception\bin\Debug\SMS.Exception.pdb
+P:\Users\abdusyed\Abdul Syed_142449\Module 2\04-01-2018\StudentMgmtSystem\SMS.Exception\obj\Debug\SMS.Exception.csprojResolveAssemblyReference.cache
+P:\Users\abdusyed\Abdul Syed_142449\Module 2\04-01-2018\StudentMgmtSystem\SMS.Exception\obj\Debug\SMS.Exception.dll
+P:\Users\abdusyed\Abdul Syed_142449\Module 2\04-01-2018\StudentMgmtSystem\SMS.Exception\obj\Debug\SMS.Exception.pdb

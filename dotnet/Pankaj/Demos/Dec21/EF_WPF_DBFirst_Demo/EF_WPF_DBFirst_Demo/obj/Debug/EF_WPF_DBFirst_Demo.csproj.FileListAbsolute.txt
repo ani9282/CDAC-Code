@@ -1,0 +1,41 @@
+G:\CMR\EF_WPF_DBFirst_Demo\EF_WPF_DBFirst_Demo\bin\Debug\EF_WPF_DBFirst_Demo.exe.config
+G:\CMR\EF_WPF_DBFirst_Demo\EF_WPF_DBFirst_Demo\bin\Debug\EF_WPF_DBFirst_Demo.exe
+G:\CMR\EF_WPF_DBFirst_Demo\EF_WPF_DBFirst_Demo\bin\Debug\EF_WPF_DBFirst_Demo.pdb
+G:\CMR\EF_WPF_DBFirst_Demo\EF_WPF_DBFirst_Demo\bin\Debug\EntityFramework.dll
+G:\CMR\EF_WPF_DBFirst_Demo\EF_WPF_DBFirst_Demo\bin\Debug\EntityFramework.SqlServer.dll
+G:\CMR\EF_WPF_DBFirst_Demo\EF_WPF_DBFirst_Demo\bin\Debug\EntityFramework.xml
+G:\CMR\EF_WPF_DBFirst_Demo\EF_WPF_DBFirst_Demo\bin\Debug\EntityFramework.SqlServer.xml
+G:\CMR\EF_WPF_DBFirst_Demo\EF_WPF_DBFirst_Demo\obj\Debug\EF_WPF_DBFirst_Demo.csprojResolveAssemblyReference.cache
+G:\CMR\EF_WPF_DBFirst_Demo\EF_WPF_DBFirst_Demo\obj\Debug\MainWindow.g.cs
+G:\CMR\EF_WPF_DBFirst_Demo\EF_WPF_DBFirst_Demo\obj\Debug\App.g.cs
+G:\CMR\EF_WPF_DBFirst_Demo\EF_WPF_DBFirst_Demo\obj\Debug\EF_WPF_DBFirst_Demo_Content.g.cs
+G:\CMR\EF_WPF_DBFirst_Demo\EF_WPF_DBFirst_Demo\obj\Debug\EF_WPF_DBFirst_Demo_MarkupCompile.cache
+G:\CMR\EF_WPF_DBFirst_Demo\EF_WPF_DBFirst_Demo\obj\Debug\EF_WPF_DBFirst_Demo_MarkupCompile.lref
+G:\CMR\EF_WPF_DBFirst_Demo\EF_WPF_DBFirst_Demo\obj\Debug\MainWindow.baml
+G:\CMR\EF_WPF_DBFirst_Demo\EF_WPF_DBFirst_Demo\obj\Debug\EF_WPF_DBFirst_Demo.g.resources
+G:\CMR\EF_WPF_DBFirst_Demo\EF_WPF_DBFirst_Demo\obj\Debug\EF_WPF_DBFirst_Demo.Properties.Resources.resources
+G:\CMR\EF_WPF_DBFirst_Demo\EF_WPF_DBFirst_Demo\obj\Debug\EF_WPF_DBFirst_Demo.csproj.GenerateResource.Cache
+G:\CMR\EF_WPF_DBFirst_Demo\EF_WPF_DBFirst_Demo\obj\Debug\EF_WPF_DBFirst_Demo.exe
+G:\CMR\EF_WPF_DBFirst_Demo\EF_WPF_DBFirst_Demo\obj\Debug\EF_WPF_DBFirst_Demo.pdb
+D:\Pankaj Data\EF_WPF_DBFirst_Demo\EF_WPF_DBFirst_Demo\bin\Debug\EF_WPF_DBFirst_Demo.exe.config
+D:\Pankaj Data\EF_WPF_DBFirst_Demo\EF_WPF_DBFirst_Demo\obj\Debug\EF_WPF_DBFirst_Demo.exe
+D:\Pankaj Data\EF_WPF_DBFirst_Demo\EF_WPF_DBFirst_Demo\obj\Debug\EF_WPF_DBFirst_Demo.pdb
+\\PUN-IET\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec21\EF_WPF_DBFirst_Demo\EF_WPF_DBFirst_Demo\bin\Debug\EF_WPF_DBFirst_Demo.exe.config
+\\PUN-IET\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec21\EF_WPF_DBFirst_Demo\EF_WPF_DBFirst_Demo\obj\Debug\EF_WPF_DBFirst_Demo.exe
+\\PUN-IET\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec21\EF_WPF_DBFirst_Demo\EF_WPF_DBFirst_Demo\obj\Debug\EF_WPF_DBFirst_Demo.pdb
+\\PUN-IET\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec21\EF_WPF_DBFirst_Demo\EF_WPF_DBFirst_Demo\bin\Debug\EF_WPF_DBFirst_Demo.exe
+\\PUN-IET\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec21\EF_WPF_DBFirst_Demo\EF_WPF_DBFirst_Demo\bin\Debug\EF_WPF_DBFirst_Demo.pdb
+\\PUN-IET\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec21\EF_WPF_DBFirst_Demo\EF_WPF_DBFirst_Demo\bin\Debug\EntityFramework.dll
+\\PUN-IET\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec21\EF_WPF_DBFirst_Demo\EF_WPF_DBFirst_Demo\bin\Debug\EntityFramework.SqlServer.dll
+\\PUN-IET\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec21\EF_WPF_DBFirst_Demo\EF_WPF_DBFirst_Demo\bin\Debug\EntityFramework.xml
+\\PUN-IET\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec21\EF_WPF_DBFirst_Demo\EF_WPF_DBFirst_Demo\bin\Debug\EntityFramework.SqlServer.xml
+\\PUN-IET\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec21\EF_WPF_DBFirst_Demo\EF_WPF_DBFirst_Demo\obj\Debug\EF_WPF_DBFirst_Demo.csprojResolveAssemblyReference.cache
+\\PUN-IET\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec21\EF_WPF_DBFirst_Demo\EF_WPF_DBFirst_Demo\obj\Debug\MainWindow.g.cs
+\\PUN-IET\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec21\EF_WPF_DBFirst_Demo\EF_WPF_DBFirst_Demo\obj\Debug\App.g.cs
+\\PUN-IET\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec21\EF_WPF_DBFirst_Demo\EF_WPF_DBFirst_Demo\obj\Debug\EF_WPF_DBFirst_Demo_Content.g.cs
+\\PUN-IET\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec21\EF_WPF_DBFirst_Demo\EF_WPF_DBFirst_Demo\obj\Debug\EF_WPF_DBFirst_Demo_MarkupCompile.cache
+\\PUN-IET\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec21\EF_WPF_DBFirst_Demo\EF_WPF_DBFirst_Demo\obj\Debug\EF_WPF_DBFirst_Demo_MarkupCompile.lref
+\\PUN-IET\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec21\EF_WPF_DBFirst_Demo\EF_WPF_DBFirst_Demo\obj\Debug\MainWindow.baml
+\\PUN-IET\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec21\EF_WPF_DBFirst_Demo\EF_WPF_DBFirst_Demo\obj\Debug\EF_WPF_DBFirst_Demo.g.resources
+\\PUN-IET\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec21\EF_WPF_DBFirst_Demo\EF_WPF_DBFirst_Demo\obj\Debug\EF_WPF_DBFirst_Demo.Properties.Resources.resources
+\\PUN-IET\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec21\EF_WPF_DBFirst_Demo\EF_WPF_DBFirst_Demo\obj\Debug\EF_WPF_DBFirst_Demo.csproj.GenerateResource.Cache

@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="CGCMRModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Customer">
+    <Key>
+      <PropertyRef Name="CustId" />
+    </Key>
+    <Property Name="CustId" Type="Int32" Nullable="false" />
+    <Property Name="FirstName" Type="String" MaxLength="30" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="MiddleName" Type="String" MaxLength="30" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="LastName" Type="String" MaxLength="30" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="DOB" Type="DateTime" Precision="3" Nullable="false" />
+    <Property Name="Address" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="City" Type="String" MaxLength="10" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Email" Type="String" MaxLength="20" FixedLength="false" Unicode="false" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="CGCMREntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Customers" EntityType="Self.Customer" />
+    <FunctionImport Name="spSearchCustomerByCustID" ReturnType="Collection(CGCMRModel.spSearchCustomerByCustID_Result)">
+      <Parameter Name="custID" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="spSearchCustomerByName" EntitySet="Customers" ReturnType="Collection(CGCMRModel.Customer)">
+      <Parameter Name="FirstName" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="SeacrhCustomerByID" EntitySet="Customers" ReturnType="Collection(CGCMRModel.Customer)">
+      <Parameter Name="custID" Mode="In" Type="Int32" />
+    </FunctionImport>
+  </EntityContainer>
+  <ComplexType Name="spSearchCustomerByCustID_Result">
+    <Property Type="Int32" Name="CustId" Nullable="false" />
+    <Property Type="String" Name="FirstName" Nullable="false" MaxLength="30" />
+    <Property Type="String" Name="MiddleName" Nullable="false" MaxLength="30" />
+    <Property Type="String" Name="LastName" Nullable="false" MaxLength="30" />
+    <Property Type="DateTime" Name="DOB" Nullable="false" Precision="23" />
+    <Property Type="String" Name="Address" Nullable="false" MaxLength="100" />
+    <Property Type="String" Name="City" Nullable="false" MaxLength="10" />
+    <Property Type="String" Name="Email" Nullable="false" MaxLength="20" />
+  </ComplexType>
+  <ComplexType Name="spSearchCustomerByName_Result">
+    <Property Type="Int32" Name="CustId" Nullable="false" />
+    <Property Type="String" Name="FirstName" Nullable="false" MaxLength="30" />
+    <Property Type="String" Name="MiddleName" Nullable="false" MaxLength="30" />
+    <Property Type="String" Name="LastName" Nullable="false" MaxLength="30" />
+    <Property Type="DateTime" Name="DOB" Nullable="false" Precision="23" />
+    <Property Type="String" Name="Address" Nullable="false" MaxLength="100" />
+    <Property Type="String" Name="City" Nullable="false" MaxLength="10" />
+    <Property Type="String" Name="Email" Nullable="false" MaxLength="20" />
+  </ComplexType>
+</Schema>

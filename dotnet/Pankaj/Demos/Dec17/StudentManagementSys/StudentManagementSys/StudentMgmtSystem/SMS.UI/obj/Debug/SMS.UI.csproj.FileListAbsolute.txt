@@ -1,0 +1,79 @@
+P:\Users\abdusyed\Abdul Syed_142449\Module 2\Assignment\Lab Book\Lab 4\StudentMgmtSystem\SMS.UI\bin\Debug\SMS.UI.exe.config
+P:\Users\abdusyed\Abdul Syed_142449\Module 2\Assignment\Lab Book\Lab 4\StudentMgmtSystem\SMS.UI\bin\Debug\SMS.UI.exe
+P:\Users\abdusyed\Abdul Syed_142449\Module 2\Assignment\Lab Book\Lab 4\StudentMgmtSystem\SMS.UI\bin\Debug\SMS.UI.pdb
+P:\Users\abdusyed\Abdul Syed_142449\Module 2\Assignment\Lab Book\Lab 4\StudentMgmtSystem\SMS.UI\obj\Debug\SMS.UI.csprojResolveAssemblyReference.cache
+P:\Users\abdusyed\Abdul Syed_142449\Module 2\Assignment\Lab Book\Lab 4\StudentMgmtSystem\SMS.UI\obj\Debug\SMS.UI.Properties.Resources.resources
+P:\Users\abdusyed\Abdul Syed_142449\Module 2\Assignment\Lab Book\Lab 4\StudentMgmtSystem\SMS.UI\obj\Debug\SMS.UI.csproj.GenerateResource.Cache
+P:\Users\abdusyed\Abdul Syed_142449\Module 2\Assignment\Lab Book\Lab 4\StudentMgmtSystem\SMS.UI\obj\Debug\SMS.UI.exe
+P:\Users\abdusyed\Abdul Syed_142449\Module 2\Assignment\Lab Book\Lab 4\StudentMgmtSystem\SMS.UI\obj\Debug\SMS.UI.pdb
+P:\Users\abdusyed\Abdul Syed_142449\Module 2\Assignment\Lab Book\Lab 4\StudentMgmtSystem\SMS.UI\bin\Debug\SMS.BL.dll
+P:\Users\abdusyed\Abdul Syed_142449\Module 2\Assignment\Lab Book\Lab 4\StudentMgmtSystem\SMS.UI\bin\Debug\SMS.Entity.dll
+P:\Users\abdusyed\Abdul Syed_142449\Module 2\Assignment\Lab Book\Lab 4\StudentMgmtSystem\SMS.UI\bin\Debug\SMS.BL.pdb
+P:\Users\abdusyed\Abdul Syed_142449\Module 2\Assignment\Lab Book\Lab 4\StudentMgmtSystem\SMS.UI\bin\Debug\SMS.Entity.pdb
+P:\Users\abdusyed\Abdul Syed_142449\Module 2\04-01-2018\StudentMgmtSystem\SMS.UI\bin\Debug\SMS.UI.exe.config
+P:\Users\abdusyed\Abdul Syed_142449\Module 2\04-01-2018\StudentMgmtSystem\SMS.UI\obj\Debug\SMS.UI.exe
+P:\Users\abdusyed\Abdul Syed_142449\Module 2\04-01-2018\StudentMgmtSystem\SMS.UI\obj\Debug\SMS.UI.pdb
+P:\Users\abdusyed\Abdul Syed_142449\Module 2\04-01-2018\StudentMgmtSystem\SMS.UI\bin\Debug\SMS.UI.exe
+P:\Users\abdusyed\Abdul Syed_142449\Module 2\04-01-2018\StudentMgmtSystem\SMS.UI\bin\Debug\SMS.BL.dll
+P:\Users\abdusyed\Abdul Syed_142449\Module 2\04-01-2018\StudentMgmtSystem\SMS.UI\bin\Debug\SMS.Entity.dll
+P:\Users\abdusyed\Abdul Syed_142449\Module 2\04-01-2018\StudentMgmtSystem\SMS.UI\bin\Debug\SMS.BL.pdb
+P:\Users\abdusyed\Abdul Syed_142449\Module 2\04-01-2018\StudentMgmtSystem\SMS.UI\bin\Debug\SMS.Entity.pdb
+P:\Users\abdusyed\Abdul Syed_142449\Module 2\04-01-2018\StudentMgmtSystem\SMS.UI\obj\Debug\SMS.UI.csprojResolveAssemblyReference.cache
+P:\Users\abdusyed\Abdul Syed_142449\Module 2\04-01-2018\StudentMgmtSystem\SMS.UI\obj\Debug\SMS.UI.Properties.Resources.resources
+P:\Users\abdusyed\Abdul Syed_142449\Module 2\04-01-2018\StudentMgmtSystem\SMS.UI\obj\Debug\SMS.UI.csproj.GenerateResource.Cache
+P:\Users\abdusyed\Abdul Syed_142449\Module 2\04-01-2018\StudentMgmtSystem\SMS.UI\bin\Debug\SMS.UI.pdb
+P:\Users\abdusyed\Abdul Syed_142449\Module 2\04-01-2018\StudentMgmtSystem\SMS.UI\bin\Debug\SMS.DAL.dll
+P:\Users\abdusyed\Abdul Syed_142449\Module 2\04-01-2018\StudentMgmtSystem\SMS.UI\bin\Debug\SMS.Exceptions.dll
+P:\Users\abdusyed\Abdul Syed_142449\Module 2\04-01-2018\StudentMgmtSystem\SMS.UI\bin\Debug\SMS.DAL.pdb
+P:\Users\abdusyed\Abdul Syed_142449\Module 2\04-01-2018\StudentMgmtSystem\SMS.UI\bin\Debug\SMS.Exceptions.pdb
+C:\Users\Syed Abdul Haseeb\Desktop\start\04-01-2018\StudentMgmtSystem\SMS.UI\bin\Debug\SMS.UI.exe.config
+C:\Users\Syed Abdul Haseeb\Desktop\start\04-01-2018\StudentMgmtSystem\SMS.UI\obj\Debug\SMS.UI.exe
+C:\Users\Syed Abdul Haseeb\Desktop\start\04-01-2018\StudentMgmtSystem\SMS.UI\obj\Debug\SMS.UI.pdb
+C:\Users\Syed Abdul Haseeb\Desktop\start\04-01-2018\StudentMgmtSystem\SMS.UI\bin\Debug\SMS.UI.exe
+C:\Users\Syed Abdul Haseeb\Desktop\start\04-01-2018\StudentMgmtSystem\SMS.UI\bin\Debug\SMS.UI.pdb
+C:\Users\Syed Abdul Haseeb\Desktop\start\04-01-2018\StudentMgmtSystem\SMS.UI\bin\Debug\SMS.BL.dll
+C:\Users\Syed Abdul Haseeb\Desktop\start\04-01-2018\StudentMgmtSystem\SMS.UI\bin\Debug\SMS.Entity.dll
+C:\Users\Syed Abdul Haseeb\Desktop\start\04-01-2018\StudentMgmtSystem\SMS.UI\bin\Debug\SMS.Exceptions.dll
+C:\Users\Syed Abdul Haseeb\Desktop\start\04-01-2018\StudentMgmtSystem\SMS.UI\bin\Debug\SMS.DAL.dll
+C:\Users\Syed Abdul Haseeb\Desktop\start\04-01-2018\StudentMgmtSystem\SMS.UI\bin\Debug\SMS.BL.pdb
+C:\Users\Syed Abdul Haseeb\Desktop\start\04-01-2018\StudentMgmtSystem\SMS.UI\bin\Debug\SMS.Entity.pdb
+C:\Users\Syed Abdul Haseeb\Desktop\start\04-01-2018\StudentMgmtSystem\SMS.UI\bin\Debug\SMS.Exceptions.pdb
+C:\Users\Syed Abdul Haseeb\Desktop\start\04-01-2018\StudentMgmtSystem\SMS.UI\bin\Debug\SMS.DAL.pdb
+C:\Users\Syed Abdul Haseeb\Desktop\start\04-01-2018\StudentMgmtSystem\SMS.UI\obj\Debug\SMS.UI.csprojResolveAssemblyReference.cache
+C:\Users\Syed Abdul Haseeb\Desktop\start\04-01-2018\StudentMgmtSystem\SMS.UI\obj\Debug\SMS.UI.Properties.Resources.resources
+C:\Users\Syed Abdul Haseeb\Desktop\start\04-01-2018\StudentMgmtSystem\SMS.UI\obj\Debug\SMS.UI.csproj.GenerateResource.Cache
+G:\CgMumbai\StudentManagementSys\StudentManagementSys\StudentMgmtSystem\SMS.UI\bin\Debug\SMS.UI.exe.config
+G:\CgMumbai\StudentManagementSys\StudentManagementSys\StudentMgmtSystem\SMS.UI\obj\Debug\SMS.UI.exe
+G:\CgMumbai\StudentManagementSys\StudentManagementSys\StudentMgmtSystem\SMS.UI\obj\Debug\SMS.UI.pdb
+G:\CgMumbai\StudentManagementSys\StudentManagementSys\StudentMgmtSystem\SMS.UI\bin\Debug\SMS.UI.exe
+G:\CgMumbai\StudentManagementSys\StudentManagementSys\StudentMgmtSystem\SMS.UI\bin\Debug\SMS.UI.pdb
+G:\CgMumbai\StudentManagementSys\StudentManagementSys\StudentMgmtSystem\SMS.UI\bin\Debug\SMS.BL.dll
+G:\CgMumbai\StudentManagementSys\StudentManagementSys\StudentMgmtSystem\SMS.UI\bin\Debug\SMS.Entity.dll
+G:\CgMumbai\StudentManagementSys\StudentManagementSys\StudentMgmtSystem\SMS.UI\bin\Debug\SMS.Exceptions.dll
+G:\CgMumbai\StudentManagementSys\StudentManagementSys\StudentMgmtSystem\SMS.UI\bin\Debug\SMS.DAL.dll
+G:\CgMumbai\StudentManagementSys\StudentManagementSys\StudentMgmtSystem\SMS.UI\bin\Debug\SMS.BL.pdb
+G:\CgMumbai\StudentManagementSys\StudentManagementSys\StudentMgmtSystem\SMS.UI\bin\Debug\SMS.Entity.pdb
+G:\CgMumbai\StudentManagementSys\StudentManagementSys\StudentMgmtSystem\SMS.UI\bin\Debug\SMS.Exceptions.pdb
+G:\CgMumbai\StudentManagementSys\StudentManagementSys\StudentMgmtSystem\SMS.UI\bin\Debug\SMS.DAL.pdb
+G:\CgMumbai\StudentManagementSys\StudentManagementSys\StudentMgmtSystem\SMS.UI\obj\Debug\SMS.UI.csprojResolveAssemblyReference.cache
+G:\CgMumbai\StudentManagementSys\StudentManagementSys\StudentMgmtSystem\SMS.UI\obj\Debug\SMS.UI.Properties.Resources.resources
+G:\CgMumbai\StudentManagementSys\StudentManagementSys\StudentMgmtSystem\SMS.UI\obj\Debug\SMS.UI.csproj.GenerateResource.Cache
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec17\StudentManagementSys\StudentManagementSys\StudentMgmtSystem\SMS.UI\bin\Debug\SMS.UI.exe.config
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec17\StudentManagementSys\StudentManagementSys\StudentMgmtSystem\SMS.UI\obj\Debug\SMS.UI.exe
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec17\StudentManagementSys\StudentManagementSys\StudentMgmtSystem\SMS.UI\obj\Debug\SMS.UI.pdb
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec17\StudentManagementSys\StudentManagementSys\StudentMgmtSystem\SMS.UI\bin\Debug\SMS.UI.exe
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec17\StudentManagementSys\StudentManagementSys\StudentMgmtSystem\SMS.UI\bin\Debug\SMS.UI.pdb
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec17\StudentManagementSys\StudentManagementSys\StudentMgmtSystem\SMS.UI\bin\Debug\SMS.BL.dll
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec17\StudentManagementSys\StudentManagementSys\StudentMgmtSystem\SMS.UI\bin\Debug\SMS.Entity.dll
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec17\StudentManagementSys\StudentManagementSys\StudentMgmtSystem\SMS.UI\bin\Debug\SMS.Exceptions.dll
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec17\StudentManagementSys\StudentManagementSys\StudentMgmtSystem\SMS.UI\bin\Debug\SMS.DAL.dll
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec17\StudentManagementSys\StudentManagementSys\StudentMgmtSystem\SMS.UI\bin\Debug\SMS.BL.pdb
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec17\StudentManagementSys\StudentManagementSys\StudentMgmtSystem\SMS.UI\bin\Debug\SMS.Entity.pdb
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec17\StudentManagementSys\StudentManagementSys\StudentMgmtSystem\SMS.UI\bin\Debug\SMS.Exceptions.pdb
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec17\StudentManagementSys\StudentManagementSys\StudentMgmtSystem\SMS.UI\bin\Debug\SMS.DAL.pdb
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec17\StudentManagementSys\StudentManagementSys\StudentMgmtSystem\SMS.UI\obj\Debug\SMS.UI.csprojResolveAssemblyReference.cache
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec17\StudentManagementSys\StudentManagementSys\StudentMgmtSystem\SMS.UI\obj\Debug\SMS.UI.Properties.Resources.resources
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec17\StudentManagementSys\StudentManagementSys\StudentMgmtSystem\SMS.UI\obj\Debug\SMS.UI.csproj.GenerateResource.Cache
+C:\Users\Windows\Desktop\dotnet\Pankaj\Demos\Dec17\StudentManagementSys\StudentManagementSys\StudentMgmtSystem\SMS.UI\bin\Debug\SMS.UI.exe.config
+C:\Users\Windows\Desktop\dotnet\Pankaj\Demos\Dec17\StudentManagementSys\StudentManagementSys\StudentMgmtSystem\SMS.UI\obj\Debug\SMS.UI.exe
+C:\Users\Windows\Desktop\dotnet\Pankaj\Demos\Dec17\StudentManagementSys\StudentManagementSys\StudentMgmtSystem\SMS.UI\obj\Debug\SMS.UI.pdb

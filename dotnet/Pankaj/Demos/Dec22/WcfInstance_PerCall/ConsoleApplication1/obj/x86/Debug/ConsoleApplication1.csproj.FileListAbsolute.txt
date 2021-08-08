@@ -1,0 +1,8 @@
+D:\Pankaj Data\Laptop Desktop\Accenture\WCF\Demos\WcfInstance_PerCall\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\Pankaj Data\Laptop Desktop\Accenture\WCF\Demos\WcfInstance_PerCall\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Pankaj Data\Laptop Desktop\Accenture\WCF\Demos\WcfInstance_PerCall\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Pankaj Data\Laptop Desktop\Accenture\WCF\Demos\WcfInstance_PerCall\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+D:\Pankaj Data\Laptop Desktop\Accenture\WCF\Demos\WcfInstance_PerCall\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+G:\Pankaj Data\Laptop Desktop\Accenture\WCF\Demos\WcfInstance_PerCall\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+G:\Pankaj Data\Laptop Desktop\Accenture\WCF\Demos\WcfInstance_PerCall\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+G:\Pankaj Data\Laptop Desktop\Accenture\WCF\Demos\WcfInstance_PerCall\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb

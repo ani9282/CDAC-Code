@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SMS_PL", "SMS_PL\SMS_PL.csproj", "{F896F5A7-C318-4230-926C-0C3343B2CC3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SMS_Entity", "SMS_Entity\SMS_Entity.csproj", "{F78D97C5-D6C4-44DB-B2D8-920535C5E26D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F896F5A7-C318-4230-926C-0C3343B2CC3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F896F5A7-C318-4230-926C-0C3343B2CC3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F896F5A7-C318-4230-926C-0C3343B2CC3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F896F5A7-C318-4230-926C-0C3343B2CC3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F78D97C5-D6C4-44DB-B2D8-920535C5E26D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F78D97C5-D6C4-44DB-B2D8-920535C5E26D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F78D97C5-D6C4-44DB-B2D8-920535C5E26D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F78D97C5-D6C4-44DB-B2D8-920535C5E26D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

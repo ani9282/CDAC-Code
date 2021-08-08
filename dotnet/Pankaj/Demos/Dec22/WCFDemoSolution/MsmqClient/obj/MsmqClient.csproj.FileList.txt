@@ -1,0 +1,6 @@
+obj\Debug\ResolveAssemblyReference.cache
+bin\Debug\MsmqClient.exe.config
+bin\Debug\MsmqClient.exe
+bin\Debug\MsmqClient.pdb
+obj\Debug\MsmqClient.exe
+obj\Debug\MsmqClient.pdb

@@ -1,0 +1,7 @@
+C:\Users\Pankaj\Desktop\Accenture\WCF_in_details_src\WCFDemoSolution\WCFService\bin\WCFService.dll
+C:\Users\Pankaj\Desktop\Accenture\WCF_in_details_src\WCFDemoSolution\WCFService\bin\WCFService.pdb
+C:\Users\Pankaj\Desktop\Accenture\WCF_in_details_src\WCFDemoSolution\WCFService\bin\SystemInfo.dll
+C:\Users\Pankaj\Desktop\Accenture\WCF_in_details_src\WCFDemoSolution\WCFService\bin\SystemInfo.pdb
+C:\Users\Pankaj\Desktop\Accenture\WCF_in_details_src\WCFDemoSolution\WCFService\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Pankaj\Desktop\Accenture\WCF_in_details_src\WCFDemoSolution\WCFService\obj\Debug\WCFService.dll
+C:\Users\Pankaj\Desktop\Accenture\WCF_in_details_src\WCFDemoSolution\WCFService\obj\Debug\WCFService.pdb

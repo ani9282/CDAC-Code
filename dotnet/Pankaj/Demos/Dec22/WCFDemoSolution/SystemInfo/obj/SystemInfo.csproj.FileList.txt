@@ -1,0 +1,5 @@
+bin\Debug\SystemInfo.dll
+bin\Debug\SystemInfo.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\SystemInfo.dll
+obj\Debug\SystemInfo.pdb

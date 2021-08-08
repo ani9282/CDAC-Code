@@ -1,0 +1,29 @@
+﻿@model Mvc_ADOCRUD_Demo.Models.Entity.Puppies
+
+@{
+    ViewBag.Title = "ShowPuppieDetail";
+}
+
+<h2>ShowPuppieDetail</h2>
+
+<fieldset>
+    <legend>Puppies</legend>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.Name)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Name)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.Skill)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Skill)
+    </div>
+</fieldset>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id=Model.ID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="CGCMRModelStoreContainer" CdmEntityContainer="CGCMREntities">
+    <EntitySetMapping Name="Customers">
+      <EntityTypeMapping TypeName="CGCMRModel.Customer">
+        <MappingFragment StoreEntitySet="Customers">
+          <ScalarProperty Name="CustId" ColumnName="CustId" />
+          <ScalarProperty Name="FirstName" ColumnName="FirstName" />
+          <ScalarProperty Name="MiddleName" ColumnName="MiddleName" />
+          <ScalarProperty Name="LastName" ColumnName="LastName" />
+          <ScalarProperty Name="DOB" ColumnName="DOB" />
+          <ScalarProperty Name="Address" ColumnName="Address" />
+          <ScalarProperty Name="City" ColumnName="City" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <FunctionImportMapping FunctionImportName="spSearchCustomerByCustID" FunctionName="CGCMRModel.Store.spSearchCustomerByCustID">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="CGCMRModel.spSearchCustomerByCustID_Result">
+          <ScalarProperty Name="CustId" ColumnName="CustId" />
+          <ScalarProperty Name="FirstName" ColumnName="FirstName" />
+          <ScalarProperty Name="MiddleName" ColumnName="MiddleName" />
+          <ScalarProperty Name="LastName" ColumnName="LastName" />
+          <ScalarProperty Name="DOB" ColumnName="DOB" />
+          <ScalarProperty Name="Address" ColumnName="Address" />
+          <ScalarProperty Name="City" ColumnName="City" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="spSearchCustomerByName" FunctionName="CGCMRModel.Store.spSearchCustomerByName" />
+    <FunctionImportMapping FunctionImportName="SeacrhCustomerByID" FunctionName="CGCMRModel.Store.spSearchCustomerByCustID" />
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,7 @@
+bin\WCFService.dll
+bin\WCFService.pdb
+bin\SystemInfo.dll
+bin\SystemInfo.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\WCFService.dll
+obj\Debug\WCFService.pdb

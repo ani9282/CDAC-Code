@@ -1,0 +1,31 @@
+D:\Tesco\EFCodeFirstDemoInConsole\EFCodeFirstDemoInConsole\bin\Debug\EFCodeFirstDemoInConsole.exe.config
+E:\AccDemos\EFCodeFirstDemoInConsole\EFCodeFirstDemoInConsole\bin\Debug\EFCodeFirstDemoInConsole.exe.config
+E:\AccDemos\EFCodeFirstDemoInConsole\EFCodeFirstDemoInConsole\bin\Debug\EFCodeFirstDemoInConsole.exe
+E:\AccDemos\EFCodeFirstDemoInConsole\EFCodeFirstDemoInConsole\bin\Debug\EFCodeFirstDemoInConsole.pdb
+E:\AccDemos\EFCodeFirstDemoInConsole\EFCodeFirstDemoInConsole\bin\Debug\EntityFramework.dll
+E:\AccDemos\EFCodeFirstDemoInConsole\EFCodeFirstDemoInConsole\bin\Debug\EntityFramework.SqlServer.dll
+E:\AccDemos\EFCodeFirstDemoInConsole\EFCodeFirstDemoInConsole\bin\Debug\EntityFramework.xml
+E:\AccDemos\EFCodeFirstDemoInConsole\EFCodeFirstDemoInConsole\bin\Debug\EntityFramework.SqlServer.xml
+E:\AccDemos\EFCodeFirstDemoInConsole\EFCodeFirstDemoInConsole\obj\x86\Debug\EFCodeFirstDemoInConsole.exe
+E:\AccDemos\EFCodeFirstDemoInConsole\EFCodeFirstDemoInConsole\obj\x86\Debug\EFCodeFirstDemoInConsole.pdb
+E:\AccDemos\EFCodeFirstDemoInConsole\EFCodeFirstDemoInConsole\obj\x86\Debug\EFCodeFirstDemoInConsole.csprojResolveAssemblyReference.cache
+D:\Pankaj Data\More Demos\EFCodeFirstDemoInConsole\EFCodeFirstDemoInConsole\bin\Debug\EFCodeFirstDemoInConsole.exe.config
+D:\Pankaj Data\More Demos\EFCodeFirstDemoInConsole\EFCodeFirstDemoInConsole\obj\x86\Debug\EFCodeFirstDemoInConsole.exe
+D:\Pankaj Data\More Demos\EFCodeFirstDemoInConsole\EFCodeFirstDemoInConsole\obj\x86\Debug\EFCodeFirstDemoInConsole.pdb
+D:\Pankaj Data\More Demos\EFCodeFirstDemoInConsole\EFCodeFirstDemoInConsole\bin\Debug\EFCodeFirstDemoInConsole.exe
+D:\Pankaj Data\More Demos\EFCodeFirstDemoInConsole\EFCodeFirstDemoInConsole\bin\Debug\EFCodeFirstDemoInConsole.pdb
+D:\Pankaj Data\More Demos\EFCodeFirstDemoInConsole\EFCodeFirstDemoInConsole\bin\Debug\EntityFramework.dll
+D:\Pankaj Data\More Demos\EFCodeFirstDemoInConsole\EFCodeFirstDemoInConsole\bin\Debug\EntityFramework.SqlServer.dll
+D:\Pankaj Data\More Demos\EFCodeFirstDemoInConsole\EFCodeFirstDemoInConsole\bin\Debug\EntityFramework.xml
+D:\Pankaj Data\More Demos\EFCodeFirstDemoInConsole\EFCodeFirstDemoInConsole\bin\Debug\EntityFramework.SqlServer.xml
+D:\Pankaj Data\More Demos\EFCodeFirstDemoInConsole\EFCodeFirstDemoInConsole\obj\x86\Debug\EFCodeFirstDemoInConsole.csprojResolveAssemblyReference.cache
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec21\EFCodeFirstDemoInConsole\EFCodeFirstDemoInConsole\bin\Debug\EFCodeFirstDemoInConsole.exe.config
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec21\EFCodeFirstDemoInConsole\EFCodeFirstDemoInConsole\bin\Debug\EFCodeFirstDemoInConsole.exe
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec21\EFCodeFirstDemoInConsole\EFCodeFirstDemoInConsole\bin\Debug\EFCodeFirstDemoInConsole.pdb
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec21\EFCodeFirstDemoInConsole\EFCodeFirstDemoInConsole\bin\Debug\EntityFramework.dll
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec21\EFCodeFirstDemoInConsole\EFCodeFirstDemoInConsole\bin\Debug\EntityFramework.SqlServer.dll
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec21\EFCodeFirstDemoInConsole\EFCodeFirstDemoInConsole\bin\Debug\EntityFramework.xml
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec21\EFCodeFirstDemoInConsole\EFCodeFirstDemoInConsole\bin\Debug\EntityFramework.SqlServer.xml
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec21\EFCodeFirstDemoInConsole\EFCodeFirstDemoInConsole\obj\x86\Debug\EFCodeFirstDemoInConsole.csprojResolveAssemblyReference.cache
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec21\EFCodeFirstDemoInConsole\EFCodeFirstDemoInConsole\obj\x86\Debug\EFCodeFirstDemoInConsole.exe
+\\pun-iet\Data for DAC Aug 2019\dotnet\Pankaj\Demos\Dec21\EFCodeFirstDemoInConsole\EFCodeFirstDemoInConsole\obj\x86\Debug\EFCodeFirstDemoInConsole.pdb

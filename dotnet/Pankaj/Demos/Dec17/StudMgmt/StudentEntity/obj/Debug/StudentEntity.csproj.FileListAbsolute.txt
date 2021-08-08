@@ -1,0 +1,7 @@
+d:\Cdac19\StudMgmt\StudentEntity\bin\Debug\StudentEntity.dll
+d:\Cdac19\StudMgmt\StudentEntity\bin\Debug\StudentEntity.pdb
+d:\Cdac19\StudMgmt\StudentEntity\bin\Debug\StudentExceptions.dll
+d:\Cdac19\StudMgmt\StudentEntity\bin\Debug\StudentExceptions.pdb
+d:\Cdac19\StudMgmt\StudentEntity\obj\Debug\StudentEntity.csprojResolveAssemblyReference.cache
+d:\Cdac19\StudMgmt\StudentEntity\obj\Debug\StudentEntity.dll
+d:\Cdac19\StudMgmt\StudentEntity\obj\Debug\StudentEntity.pdb

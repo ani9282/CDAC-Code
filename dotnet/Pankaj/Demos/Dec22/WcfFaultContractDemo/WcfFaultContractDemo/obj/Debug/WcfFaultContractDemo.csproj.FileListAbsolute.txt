@@ -1,0 +1,9 @@
+C:\Demos\WcfFaultContractDemo\WcfFaultContractDemo\bin\WcfFaultContractDemo.dll
+C:\Demos\WcfFaultContractDemo\WcfFaultContractDemo\bin\WcfFaultContractDemo.pdb
+C:\Demos\WcfFaultContractDemo\WcfFaultContractDemo\obj\Debug\ResolveAssemblyReference.cache
+C:\Demos\WcfFaultContractDemo\WcfFaultContractDemo\obj\Debug\WcfFaultContractDemo.dll
+C:\Demos\WcfFaultContractDemo\WcfFaultContractDemo\obj\Debug\WcfFaultContractDemo.pdb
+D:\Pankaj Data\Laptop Desktop\Accenture\WCF\Demos\WcfFaultContractDemo\WcfFaultContractDemo\bin\WcfFaultContractDemo.dll
+D:\Pankaj Data\Laptop Desktop\Accenture\WCF\Demos\WcfFaultContractDemo\WcfFaultContractDemo\bin\WcfFaultContractDemo.pdb
+D:\Pankaj Data\Laptop Desktop\Accenture\WCF\Demos\WcfFaultContractDemo\WcfFaultContractDemo\obj\Debug\WcfFaultContractDemo.dll
+D:\Pankaj Data\Laptop Desktop\Accenture\WCF\Demos\WcfFaultContractDemo\WcfFaultContractDemo\obj\Debug\WcfFaultContractDemo.pdb

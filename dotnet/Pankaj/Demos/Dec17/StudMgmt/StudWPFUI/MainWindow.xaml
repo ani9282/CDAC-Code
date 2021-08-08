@@ -1,0 +1,41 @@
+﻿<Window x:Class="StudWPFUI.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:StudWPFUI"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Label Name="lblRollNo" Content="Roll No" Margin="66,0,389,287"></Label>
+        <TextBox x:Name="txtRollNo" Height="23" TextWrapping="Wrap"  Margin="187,2,182,295"/>
+
+        <Label x:Name="lblName" Content="Name" Margin="66,36,389,251"/>
+        <TextBox x:Name="txtName" Height="23" TextWrapping="Wrap"  Margin="187,38,182,259"/>
+
+        <Label x:Name="lblPhy" Content="Physics" Margin="66,72,389,215"/>
+        <TextBox x:Name="txtPhy" Height="23" TextWrapping="Wrap" Margin="187,74,182,223"/>
+
+        <Label x:Name="lbChem" Content="Chemistry" Margin="66,113,389,174"/>
+        <TextBox x:Name="txtChem" Height="23" TextWrapping="Wrap" Margin="187,115,182,182"/>
+
+        <Label x:Name="lblMaths" Content="Maths" Margin="66,148,389,139"/>
+        <TextBox x:Name="txtMaths" TextWrapping="Wrap"  Margin="187,150,182,139"/>
+
+        <Label x:Name="lblTotal" Content="Total" Margin="66,189,389,98"/>
+        <TextBox x:Name="txtTotal" TextWrapping="Wrap" Margin="187,191,182,98" IsReadOnly="True"/>
+
+        <Label x:Name="lblPerc" Content="Average" Margin="66,242,389,38"/>
+        <TextBox x:Name="txtPerc" TextWrapping="Wrap"  Margin="187,244,182,48"/>
+        <Button Style="{StaticResource Hot}" x:Name="button" Content="Button" HorizontalAlignment="Left" Margin="354,38,0,0" VerticalAlignment="Top" Width="115" RenderTransformOrigin="0.5,0.5" Click="button_Click">
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-37.556"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Button.RenderTransform>
+        </Button>
+    </Grid>
+</Window>

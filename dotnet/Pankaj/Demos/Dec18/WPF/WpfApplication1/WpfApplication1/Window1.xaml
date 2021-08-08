@@ -1,0 +1,26 @@
+﻿<Window x:Class="WpfApplication1.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Window1" Height="300" Width="300">
+    <Grid>
+        <DockPanel HorizontalAlignment="Right" VerticalAlignment="Bottom"   >
+            <StackPanel Orientation="Horizontal" Width="110" HorizontalAlignment="Right" >
+                <Button Name="btn1" Content="Ok" ></Button>
+                <Button Name="btn2" Content="Click Me" ></Button>
+                <Button Name="btn3" Content="Cancel" ></Button>
+            </StackPanel>
+            <StackPanel >
+               
+                <Label Content="Have you seen this movie?" Margin="3"/>
+                <StackPanel Orientation="Horizontal">
+                    <Label Content="{Binding NextMovieTitle}" Margin="3"/>
+                    <Button Content="Seen It" Margin="3"/>
+                    <Button Content="NOT Seen It" Margin="3"/>
+                </StackPanel>
+                <Button Content="Next Movie" HorizontalAlignment="Center" Margin="3"
+            Click="btnNext_Click"/>
+            </StackPanel>
+        </DockPanel>
+       
+    </Grid>
+</Window>
